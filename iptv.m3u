@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 group-title="Medikai" tvg-id="" tvg-logo="",Medikai Paramedikai
+https://we.tl/t-q7S94MvcBZ
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TV3_Group_Logo.svg/1200px-TV3_Group_Logo.svg.png",TV3
 http://45.145.32.15:20004/tv3/video.m3u8
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv6-lt" tvg-logo="http://res.lt/wp-content/uploads/2019/02/tv6_logo_hd-150x150.png",TV6
