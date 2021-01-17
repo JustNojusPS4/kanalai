@@ -19,6 +19,9 @@ http://45.145.32.15:20004/tv1/svideo.m3u8
 http://45.145.32.15:20004/current_time/svideo.m3u8
 
 
+
+
+
 #EXTINF:-1,Дом Кино
 #EXTGRP:Кинозалы
 http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
@@ -79,66 +82,63 @@ http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
 
 #EXTINF:-1,Discovery
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
 #EXTINF:-1,Общественное Независимое Телевидение
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 https://ch.iptvmate.net/a46f7aba4c40d62799b6ca0296fb7f6c.m3u8
 #EXTINF:-1,Трофей HD
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_w1068339373_b878000_slukr.m3u8
 #EXTINF:-1,Поехали!
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://89.106.234.3:80/poehali_34_35.m3u8
 #EXTINF:0,Калейдоскоп ТВ
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:0,Лайфхаки для кухни
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 #EXTINF:-1,WORLD HD
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1,Sochi Live HD
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1,Travel Guid-TV
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:0,Сочи 24 HD
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
 #EXTINF:0,Моя Планета
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,100% News
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1,RLS-TV
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 #EXTVLCOPT:http-user-agent=smartlabs
 http://hls.goodgame.ru/hls/6147.m3u8
 #EXTINF:-1,Красная линия ТВ
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 #EXTINF:0,Настоящее время
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1,Global Star TV
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 #EXTINF:-1,Brics TV HD
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:0,Univer TV HD
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1,Министерство идей
-#EXTGRP:Познавательные
+#EXTGRP:Российские
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-
-
-
 #EXTINF:-1,Известия
 #EXTGRP:Российские
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -184,6 +184,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1,Известия ТВ FHD
 #EXTGRP:Российские
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
+
 #EXTINF:-1,Eurodance 90 HD
 #EXTGRP:Музыка
 https://eurodance.catcast.tv/content/36987/index.m3u8
