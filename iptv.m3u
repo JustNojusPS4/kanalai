@@ -19,6 +19,8 @@ http://45.145.32.15:20004/tv1/svideo.m3u8
 http://45.145.32.15:20004/current_time/svideo.m3u8
 
 
+#EXTINF:-1 group-title="Lietuviski" tvg-name="BTV HD", BTV HD
+http://portal.ott.pink/watch/277/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="IDFashion HD", IDFashion HD
 http://portal.ott.pink/watch/24/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="Hotbird 4K", Hotbird 4K
@@ -109,8 +111,6 @@ http://portal.ott.pink/watch/309/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/352/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="BCU Ultra 4K", BCU Ultra 4K
 http://portal.ott.pink/watch/349/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Lietuviski" tvg-name="BTV HD", BTV HD
-http://portal.ott.pink/watch/277/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Мaтч! Игра HD", Мaтч! Игра HD
 http://portal.ott.pink/watch/271/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Мaтч! Арена HD", Мaтч! Арена HD
