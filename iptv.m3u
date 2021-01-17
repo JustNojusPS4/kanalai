@@ -53,24 +53,10 @@ http://portal.ott.pink/watch/167/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/165/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="VIP Comedy CEE HD", VIP Comedy CEE HD
 http://portal.ott.pink/watch/163/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="CNNi HD", CNNi HD
-http://portal.ott.pink/watch/143/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="UHD1 4K", UHD1 4K
 http://portal.ott.pink/watch/21/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="Insight TV HD (EN/RU/ES/DE)", Insight TV HD (EN/RU/ES/DE)
-http://portal.ott.pink/watch/79/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="ALJazeera Europe HD", ALJazeera Europe HD
-http://portal.ott.pink/watch/92/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="BBC World HD", BBC World HD
-http://portal.ott.pink/watch/93/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="CNBC HD", CNBC HD
-http://portal.ott.pink/watch/153/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Eurosport Gold HD", Eurosport Gold HD
 http://portal.ott.pink/watch/196/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="Classical Harmony HD", Classical Harmony HD
-http://portal.ott.pink/watch/214/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="Fast&Fun Box HD (RU/EN)", Fast&Fun Box HD (RU/EN)
-http://portal.ott.pink/watch/211/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Настоящее время HD", Настоящее время HD
 http://portal.ott.pink/watch/207/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Discovery Channel", Discovery Channel
@@ -79,18 +65,12 @@ http://portal.ott.pink/watch/200/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/199/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="Nat Geo Wild HD (PL/EN)", Nat Geo Wild HD (PL/EN)
 http://portal.ott.pink/watch/150/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="TRT World HD", TRT World HD
-http://portal.ott.pink/watch/148/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="France 24 HD", France 24 HD
-http://portal.ott.pink/watch/145/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="Euronews HD", Euronews HD
 http://portal.ott.pink/watch/144/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Dorama", Dorama
 http://portal.ott.pink/watch/140/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="History 2 HD", History 2 HD
 http://portal.ott.pink/watch/139/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="This is Bulgaria HD", This is Bulgaria HD
-http://portal.ott.pink/watch/133/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="EnglishClub", EnglishClub
 http://portal.ott.pink/watch/132/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="Eurosport 1 (EN/RU)", Eurosport 1 (EN/RU)
@@ -105,8 +85,6 @@ http://portal.ott.pink/watch/8/video.m3u8?token=435787EB9642023D04F46E12A2511447
 http://portal.ott.pink/watch/253/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Lietuviski" tvg-name="Balticum Auksinis", Balticum Auksinis
 http://portal.ott.pink/watch/265/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="BBC Earth HD (EN/TR/HU/CZ/GR)", BBC Earth HD (EN/TR/HU/CZ/GR)
-http://portal.ott.pink/watch/309/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="BCU Marvel HD", BCU Marvel HD
 http://portal.ott.pink/watch/352/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="BCU Ultra 4K", BCU Ultra 4K
@@ -183,8 +161,6 @@ http://portal.ott.pink/watch/318/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/293/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="Heritage 4K", Heritage 4K
 http://portal.ott.pink/watch/294/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="History 2 HD (EN)", History 2 HD (EN)
-http://portal.ott.pink/watch/308/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="Home 4K", Home 4K
 http://portal.ott.pink/watch/256/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="iConcerts", iConcerts
@@ -225,8 +201,6 @@ http://portal.ott.pink/watch/257/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/339/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Lietuviski" tvg-name="Sport 1", Sport 1
 http://portal.ott.pink/watch/268/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="Stingray Cmusic HD", Stingray Cmusic HD
-http://portal.ott.pink/watch/246/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="TLC HD (RU)", TLC HD (RU)
 http://portal.ott.pink/watch/358/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="TV1000 Action CEE HD (RU/EN)", TV1000 Action CEE HD (RU/EN)
@@ -265,8 +239,6 @@ http://portal.ott.pink/watch/327/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/288/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="VIP Serial HD", VIP Serial HD
 http://portal.ott.pink/watch/301/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="Wness TV", Wness TV
-http://portal.ott.pink/watch/332/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="WOW 4K", WOW 4K
 http://portal.ott.pink/watch/296/video.m3u8?token=435787EB9642023D04F46E12A2511447
 
