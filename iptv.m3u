@@ -55,8 +55,6 @@ http://portal.ott.pink/watch/163/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/143/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="UHD1 4K", UHD1 4K
 http://portal.ott.pink/watch/21/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Deutsche" tvg-name="Deluxe Music HD", Deluxe Music HD
-http://portal.ott.pink/watch/20/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="Insight TV HD (EN/RU/ES/DE)", Insight TV HD (EN/RU/ES/DE)
 http://portal.ott.pink/watch/79/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="ALJazeera Europe HD", ALJazeera Europe HD
@@ -73,12 +71,6 @@ http://portal.ott.pink/watch/214/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/211/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Настоящее время HD", Настоящее время HD
 http://portal.ott.pink/watch/207/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Radio" tvg-name="UR-3 (UA)", UR-3 (UA)
-http://portal.ott.pink/watch/203/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Radio" tvg-name="UR-1 (UA)", UR-1 (UA)
-http://portal.ott.pink/watch/202/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Radio" tvg-name="Радіо Промінь (UA)", Радіо Промінь (UA)
-http://portal.ott.pink/watch/201/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Discovery Channel", Discovery Channel
 http://portal.ott.pink/watch/200/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="History HD", History HD
@@ -89,14 +81,10 @@ http://portal.ott.pink/watch/150/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/149/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="TRT World HD", TRT World HD
 http://portal.ott.pink/watch/148/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Radio" tvg-name="Radio Belarus (EN)", Radio Belarus (EN)
-http://portal.ott.pink/watch/147/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="France 24 HD", France 24 HD
 http://portal.ott.pink/watch/145/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="Euronews HD", Euronews HD
 http://portal.ott.pink/watch/144/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Беларускія" tvg-name="Беларусь 24 HD", Беларусь 24 HD
-http://portal.ott.pink/watch/142/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Dorama", Dorama
 http://portal.ott.pink/watch/140/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="History 2 HD", History 2 HD
