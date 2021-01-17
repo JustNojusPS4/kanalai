@@ -167,14 +167,8 @@ http://portal.ott.pink/watch/229/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/340/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Блокбастер HD", Блокбастер HD
 http://portal.ott.pink/watch/299/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Baltic (Балтия)" tvg-name="НТВ-Мир Балтия", НТВ-Мир Балтия
+#EXTINF:-1 group-title="Русские" tvg-name="НТВ-Мир Балтия", НТВ-Мир Балтия
 http://portal.ott.pink/watch/355/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Қазақстан" tvg-name="Хабар 24 HD (RU/KZ)", Хабар 24 HD (RU/KZ)
-http://portal.ott.pink/watch/319/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Қазақстан" tvg-name="Казах ТВ HD (RU/KZ)", Казах ТВ HD (RU/KZ)
-http://portal.ott.pink/watch/320/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Беларускія" tvg-name="БелРос", БелРос
-http://portal.ott.pink/watch/348/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="Наша Сибирь 4K", Наша Сибирь 4K
 http://portal.ott.pink/watch/321/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="Сериал UHD 4K", Сериал UHD 4K
@@ -193,11 +187,7 @@ http://portal.ott.pink/watch/227/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/249/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="DTX HD", DTX HD
 http://portal.ott.pink/watch/300/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Українські" tvg-name="Фyтбoл 1", Фyтбoл 1
-http://portal.ott.pink/watch/233/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Українські" tvg-name="Фyтбoл 2", Фyтбoл 2
-http://portal.ott.pink/watch/234/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Baltic (Балтия)" tvg-name="Рен ТВ Балтия", Рен ТВ Балтия
+#EXTINF:-1 group-title="Русские" tvg-name="Рен ТВ Балтия", Рен ТВ Балтия
 http://portal.ott.pink/watch/354/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Lietuviski" tvg-name="Epic Drama HD (LT/RU/EN)", Epic Drama HD (LT/RU/EN)
 http://portal.ott.pink/watch/279/video.m3u8?token=435787EB9642023D04F46E12A2511447
@@ -235,8 +225,6 @@ http://portal.ott.pink/watch/325/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/346/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="MTV Live HD", MTV Live HD
 http://portal.ott.pink/watch/347/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Українські" tvg-name="MusicBox HD", MusicBox HD
-http://portal.ott.pink/watch/242/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="Nasa TV 4K", Nasa TV 4K
 http://portal.ott.pink/watch/334/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Multilanguage (Многояз.)" tvg-name="Nat Geo Wild HD (RU/EN)", Nat Geo Wild HD (RU/EN)
@@ -287,7 +275,7 @@ http://portal.ott.pink/watch/241/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/240/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Viasat Nature/History HD", Viasat Nature/History HD
 http://portal.ott.pink/watch/327/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Baltic (Балтия)" tvg-name="Viasat Sport Hockey HD (EN)", Viasat Sport Hockey HD (EN)
+#EXTINF:-1 group-title="Русские" tvg-name="Viasat Sport Hockey HD (EN)", Viasat Sport Hockey HD (EN)
 http://portal.ott.pink/watch/288/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="VIP Serial HD", VIP Serial HD
 http://portal.ott.pink/watch/301/video.m3u8?token=435787EB9642023D04F46E12A2511447
@@ -295,7 +283,6 @@ http://portal.ott.pink/watch/301/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/332/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="WOW 4K", WOW 4K
 http://portal.ott.pink/watch/296/video.m3u8?token=435787EB9642023D04F46E12A2511447
-
 
 
 #EXTINF:-1,Дом Кино
