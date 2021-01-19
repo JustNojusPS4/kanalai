@@ -153,7 +153,7 @@ http://portal.ott.pink/watch/249/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/300/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Русские" tvg-name="Рен ТВ Балтия", Рен ТВ Балтия
 http://portal.ott.pink/watch/354/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Lietuviski" tvg-name="Epic Drama HD (LT/RU/EN)", Epic Drama HD (LT/RU/EN)
+#EXTINF:-1 group-title="Lietuviski" tvg-id="epic-drama" tvg-name="Epic Drama HD (LT/RU/EN)", Epic Drama HD (LT/RU/EN)
 http://portal.ott.pink/watch/279/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="4K UHD" tvg-name="Eurosport 4K", Eurosport 4K
 http://portal.ott.pink/watch/318/video.m3u8?token=435787EB9642023D04F46E12A2511447
@@ -211,7 +211,7 @@ http://portal.ott.pink/watch/224/video.m3u8?token=435787EB9642023D04F46E12A25114
 http://portal.ott.pink/watch/223/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Lietuviski" tvg-name="TV1 HD", TV1 HD
 http://portal.ott.pink/watch/280/video.m3u8?token=435787EB9642023D04F46E12A2511447
-#EXTINF:-1 group-title="Lietuviski" tvg-name="TV3 Film HD (LT/LV/ES/RU)", TV3 Film HD (LT/LV/ES/RU)
+#EXTINF:-1 group-title="Lietuviski" tvg-id="tv3-film" tvg-name="TV3 Film HD (LT/LV/ES/RU)", TV3 Film HD (LT/LV/ES/RU)
 http://portal.ott.pink/watch/326/video.m3u8?token=435787EB9642023D04F46E12A2511447
 #EXTINF:-1 group-title="Lietuviski" tvg-name="TV3 Lithuania HD", TV3 Lithuania HD
 http://portal.ott.pink/watch/261/video.m3u8?token=435787EB9642023D04F46E12A2511447
