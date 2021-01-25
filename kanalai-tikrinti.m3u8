@@ -1,23 +1,5 @@
 #EXTINF:-1 ,Липецкое Время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1 ,ЛДПР ТВ
-http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
-#EXTINF:-1 ,ЛДПР ТВ HD
-http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1 ,ОТР
-http://uiptv.do.am/1ufc/000000008/playlist.m3u8
-#EXTINF:-1 ,Первый Ростовский
-http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_720/playlist.m3u8
-#EXTINF:-1 ,Селенга ТВ (Улан-Удэ)
-http://90.188.37.86/live/playlist.m3u8
-#EXTINF:-1 ,Самотлор ТВ
-http://base.samotlor.tv:2936/live/SamotlorWeb2/playlist.m3u8
-#EXTINF:-1 ,Сергиев Пасад 24
-http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.tvr24
-#EXTINF:-1 ,Сургут 1
-http://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 ,Каббала ТВ
-http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1 ,Крым 1
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
 #EXTINF:-1 ,Крым 24 HD
@@ -28,8 +10,6 @@ http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
 http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/chunklist.m3u8
 #EXTINF:-1 ,Крик ТВ (Екатеринбург) +2
 http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
-#EXTINF:-1 ,Первый канал Евразия (KZ)
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/index.m3u8
 #EXTINF:-1 ,Almaty TV (KZ)
 http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 ,Almaty TV HD
