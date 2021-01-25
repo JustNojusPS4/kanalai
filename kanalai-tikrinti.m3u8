@@ -2,8 +2,6 @@
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 ,Кинозал-Музыка кино HD
 http://v2.catcast.me/content/37739/index.m3u8
-#EXTINF:-1 ,Сиеста HD
-http://1hdru-hls-otcnet.cdnvideo.ru/siesta/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,ULTO
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1 ,ULTO HD
@@ -154,8 +152,6 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8?version=2
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 ,Мособр TV HD
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 ,Мособр ТВ HD
-http://1hdru-hls-otcnet.cdnvideo.ru/mosobrtv/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Мордовия 24
 http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 #EXTINF:-1 ,Моя Удмуртия
@@ -694,8 +690,6 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 #EXTINF:-1 ,1-One Hd
 http://rtmp.one.by:1300
-#EXTINF:-1 ,1HD Music TV
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,1HD MUSIC TELEVISION HD
 http://dmitry-tv.my1.ru/his/02/CH_1HDMUSICTELEVISIONHD.m3u8
 #EXTINF:-1 ,RU TV HD
