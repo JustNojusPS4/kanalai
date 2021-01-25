@@ -1,58 +1,142 @@
-#EXTINF:-1 ,360° HD
-http://dmitry-tv.my1.ru/his/01/CH_360TVHD.m3u8
-#EXTINF:-1 ,Новый мир
-http://dmitry-tv.my1.ru/his/01/CH_NEWMIR.m3u8
-#EXTINF:-1 ,О-Т-В
-http://dmitry-tv.my1.ru/his/01/CH_O_T_V.m3u8
-#EXTINF:-1 ,Осетия-Ирыстон
-http://dmitry-tv.my1.ru/his/yatv/CH_OSETIYA_IRYSTON.m3u8
-#EXTINF:-1 ,Первый крымский
-http://dmitry-tv.my1.ru/his/01/CH_1KRYM.m3u8
-#EXTINF:-1 ,Крым 24
-http://dmitry-tv.my1.ru/his/01/CH_24KRYM.m3u8
-#EXTINF:-1 ,Эхо ТВ 24 (Екатеринбург)
-http://dmitry-tv.my1.ru/his/01/CH_ECHOTV24_EKT.m3u8
-#EXTINF:-1 ,Интер
-http://dmitry-tv.my1.ru/his/ua/CH_INTER.m3u8
-#EXTINF:-1 ,К1
-http://dmitry-tv.my1.ru/his/ua/CH_K1.m3u8
-#EXTINF:-1 ,А1 (Одесса) [UA]
-http://dmitry-tv.my1.ru/his/ua/CH_A1_ODESSA.m3u8
-#EXTINF:-1 ,KRATU [UA]
-http://dmitry-tv.my1.ru/his/01/CH_KRATU.m3u8
-#EXTINF:-1 ,ТРК Круг [UA]
-http://dmitry-tv.my1.ru/his/ua/CH_KRUG.m3u8
-#EXTINF:-1 ,ATR [UA]
-http://dmitry-tv.my1.ru/his/ua/CH_ATR.m3u8
-#EXTINF:-1 ,112 Украина [UA]
-http://dmitry-tv.my1.ru/his/ua/CH_112UKRAINA.m3u8
-#EXTINF:-1 ,Шансон ТВ
-http://dmitry-tv.my1.ru/his/02/CH_SHANSONTV.m3u8
-#EXTINF:-1 ,1HD MUSIC TELEVISION HD
-http://dmitry-tv.my1.ru/his/02/CH_1HDMUSICTELEVISIONHD.m3u8
-#EXTINF:-1 ,ТНТ MUSIC HD
-http://dmitry-tv.my1.ru/his/02/CH_TNTMUSICHD.m3u8
-#EXTINF:-1 ,FreshTV
-http://dmitry-tv.my1.ru/his/yatv/CH_FRESHTV.m3u8
-#EXTINF:-1 ,0!2
-http://dmitry-tv.my1.ru/his/yatv/CH_02.m3u8
-#EXTINF:-1 ,0!2 HD
-http://dmitry-tv.my1.ru/his/yatv/CH_02HD.m3u8
-#EXTINF:-1 ,Радио Страна FM HD (720p)
-http://dmitry-tv.my1.ru/his/01/CH_STRANAFMHD_720.m3u8
-#EXTINF:-1 ,РORTAL FOXMIX TV
-http://dmitry-tv.my1.ru/his/01/CH_PORTALFOXMIXTV.m3u8
-#EXTINF:-1 ,Моя планета
-http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
-#EXTINF:-1 ,Терра Инкогнита
-http://dmitry-tv.my1.ru/his/yatv/CH_TERRAINCOGNITA.m3u8
-#EXTINF:-1 ,Терра Инкогнита HD (720p)
-http://dmitry-tv.my1.ru/his/yatv/CH_TERRAINCOGNITAHD_720.m3u8
-#EXTINF:-1 ,Загородный int
-http://dmitry-tv.my1.ru/his/yatv/CH_ZAGORODNY_INT.m3u8
-#EXTINF:-1 ,360° НОВОСТИ
-http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWS.m3u8
-#EXTINF:-1 ,360° НОВОСТИ HD
-http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWSHD.m3u8
-#EXTINF:-1 ,РБК
-http://dmitry-tv.my1.ru/his/01/CH_RBK.m3u8
+#EXTINF:-1,Общественное Независимое Телевидение
+#EXTGRP:Kiti
+https://ch.iptvmate.net/a46f7aba4c40d62799b6ca0296fb7f6c.m3u8
+#EXTINF:0,Калейдоскоп ТВ
+#EXTGRP:Kiti
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:0,Лайфхаки для кухни
+#EXTGRP:Kiti
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:0,Сочи 24 HD
+#EXTGRP:Kiti
+http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
+#EXTINF:-1,100% News
+#EXTGRP:Kiti
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,RLS-TV
+#EXTGRP:Kiti
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hls.goodgame.ru/hls/6147.m3u8
+#EXTINF:0,Настоящее время
+#EXTGRP:Kiti
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:0,Univer TV HD
+#EXTGRP:Kiti
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1,Известия
+#EXTGRP:Kiti
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,Губерния Самарская
+#EXTGRP:Kiti
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1,МТВ
+#EXTGRP:Kiti
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1,Крик ТВ
+#EXTGRP:Kiti
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Новый мир
+#EXTGRP:Kiti
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 ,Новый Мир
+http://persik.by/stream/77/417334/10231.m3u8
+#EXTINF:-1,Астрахань 24
+#EXTGRP:Kiti
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1,Известия ТВ HD
+#EXTGRP:Kiti
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",47 канал
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",8 канал (Красноярский край) +4
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1 group-title="Kiti",86 канал (Сургут) +2
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 group-title="Kiti",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Kiti",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Kiti",Аист ТВ (Иркутск) +5
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Астрахань 24 HD
+http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Kiti",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 group-title="Kiti",Ветта 24 (Пермь) +2
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Вместе РФ HD
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Kiti",Губерния Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Kiti",Красная Линия ТВ
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Мир (HD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 group-title="Kiti",Москва 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Kiti",Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Kiti",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Ника TV (Калуга)
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="Kiti",Ратник HD
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 ,Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Kiti",Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Kiti",Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 ,Башкортостан 24
+http://109.233.169.137/hls/b24-hls.m3u8
+#EXTINF:-1 group-title="Kiti",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Планета RTR
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=176&token
+#EXTINF:-1 ,РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1 ,Первый канал "Евразия"
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 ,Первый Канал ОНТ
+http://persik.by/stream/8460/291680/10258.m3u8
+#EXTINF:-1 ,Первый канал HD (+4)
+http://hlstv.brn.211.ru/239.211.200.1/stream.m3u8
+#EXTINF:-1 ,Первый канал
+http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",С1 (Сургут) +2
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 group-title="Kiti",Сургут 24 +2
+http://video1.in-news.ru/c24/index.m3u8
+#EXTINF:-1 group-title="Kiti",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 group-title="Kiti",Удмуртия ТВ (Ижевск)
+http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Че!/Север (Сургут) +2
+http://tvsever.ru:8080/hls/ach2.m3u8
+#EXTINF:-1 group-title="Kiti",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Kiti",Эхо ТВ 24 (Новоуральск) +2
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:-1 group-title="Kiti",Югра ТВ (Ханты-Мансийск) +2
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
