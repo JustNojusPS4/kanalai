@@ -1,100 +1,58 @@
-#EXTINF:-1 ,Липецкое Время
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1 ,Крым 1
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1 ,Крым 24 HD
-http://live.1tvcrimea.ru:8080/switcher.m3u8
+#EXTINF:-1 ,360° HD
+http://dmitry-tv.my1.ru/his/01/CH_360TVHD.m3u8
+#EXTINF:-1 ,Новый мир
+http://dmitry-tv.my1.ru/his/01/CH_NEWMIR.m3u8
+#EXTINF:-1 ,О-Т-В
+http://dmitry-tv.my1.ru/his/01/CH_O_T_V.m3u8
+#EXTINF:-1 ,Осетия-Ирыстон
+http://dmitry-tv.my1.ru/his/yatv/CH_OSETIYA_IRYSTON.m3u8
+#EXTINF:-1 ,Первый крымский
+http://dmitry-tv.my1.ru/his/01/CH_1KRYM.m3u8
 #EXTINF:-1 ,Крым 24
-http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-1 ,Крик ТВ HD
-http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/chunklist.m3u8
-#EXTINF:-1 ,Крик ТВ (Екатеринбург) +2
-http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
-#EXTINF:-1 ,Almaty TV (KZ)
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
-#EXTINF:-1 ,Almaty TV HD
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8
-#EXTINF:-1 ,КТК
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 ,Матур ТВ HD
-http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 ,Салям ТВ
-http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 ,TV1 KG
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 ,TV PRO
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1 ,Publika TV HD (Moldova)
-http://livebeta.publika.md/LIVE/P/1500.m3u8
-#EXTINF:-1 ,Publica TV
-http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:-1 ,Canal Regional
-http://canalregional.md/tv/live/canalregional.m3u8
-#EXTINF:-1 ,Antena 1
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:-1 ,﻿1TV
-http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Armenia 1 TV
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
-#EXTINF:-1 ,21 TV
-http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8
-#EXTINF:-1 ,ARTN Shant TV
-http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
-#EXTINF:-1 ,H1
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,H1
-http://timeshift.arpinet.am/1/index.m3u8
-#EXTINF:-1 ,Լույս
-http://luyse.mediatriple.net/luystv/luystv1/Playlist.m3u8
-#EXTINF:-1 ,LIVEnews.am
-http://live-itadvice.cdnvideo.ru/itadvice/itadvice_smil/85a5e4ef3511f6c9a27f46abac1d8634--itadvice--itadvice_1080--chunklist.m3u8
+http://dmitry-tv.my1.ru/his/01/CH_24KRYM.m3u8
+#EXTINF:-1 ,Эхо ТВ 24 (Екатеринбург)
+http://dmitry-tv.my1.ru/his/01/CH_ECHOTV24_EKT.m3u8
+#EXTINF:-1 ,Интер
+http://dmitry-tv.my1.ru/his/ua/CH_INTER.m3u8
 #EXTINF:-1 ,К1
-http://lb1.macc.com.ua/life/k1_3/index.m3u8
-#EXTINF:-1 ,К1
-http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:-1 ,1-й городской (Одеса)
-http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
-#EXTINF:-1 ,3 Цифровой
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
-#EXTINF:-1 ,Алекс TV (Запорожье)
-http://46.46.112.223/live/livestream1.m3u8
-#EXTINF:-1 ,Алекс TV
-http://46.46.112.223/live/livestream3.m3u8
-#EXTINF:-1 ,Алекс UA
-http://46.46.112.223/live/livestream2.m3u8
-#EXTINF:-1 ,Алекс UA
-http://46.46.112.223/hls/alexua_576.m3u8
-#EXTINF:-1 ,А1
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
-#EXTINF:-1 ,А1 (Одесса)
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr-lq/playlist.m3u8
-#EXTINF:-1 ,А1 Одесса HD
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
-#EXTINF:-1 ,Akadem TV (Суми)
-http://178.20.154.64:8888/atv
-#EXTINF:-1 ,ВТВ Плюс(Херсон)
-http://193.107.128.8:8552/play/a007
-#EXTINF:-1 ,ВТВ Плюс
-http://video.vtvplus.com.ua:81/hls/online/index.m3u8
-#EXTINF:-1 ,ВТВ-Плюс
-http://iptv.rubintele.com:8552/play/a007
-#EXTINF:-1 ,ВТВ Плюс
-http://live.vtvplus.com.ua:4022/udp/225.0.0.4:44444
-#EXTINF:-1 ,GTV
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
-#EXTINF:-1 ,G TV
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-720p/playlist.m3u8
-#EXTINF:-1 ,G TV (Одесса)
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
-#EXTINF:-1 ,Думская ТВ
-http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1 ,Донбас Online
-http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
-#EXTINF:-1 ,En TV
-http://oriontv.net/hls/480.m3u8
-#EXTINF:-1 ,Смiла ТВ HD
-http://195.95.171.15/hls/stream.m3u8
-#EXTINF:-1 ,City TV Одесса
-http://cdn1.live-tv.od.ua:8081/a1od/citytv-abr/playlist.m3u8
-#EXTINF:-1 ,Моя Одесса ТВ
-http://cdn1.live-tv.od.ua:8081/31chod/31chplusod-abr/playlist.m3u8
+http://dmitry-tv.my1.ru/his/ua/CH_K1.m3u8
+#EXTINF:-1 ,А1 (Одесса) [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_A1_ODESSA.m3u8
+#EXTINF:-1 ,KRATU [UA]
+http://dmitry-tv.my1.ru/his/01/CH_KRATU.m3u8
+#EXTINF:-1 ,ТРК Круг [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_KRUG.m3u8
+#EXTINF:-1 ,ATR [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_ATR.m3u8
+#EXTINF:-1 ,112 Украина [UA]
+http://dmitry-tv.my1.ru/his/ua/CH_112UKRAINA.m3u8
+#EXTINF:-1 ,Шансон ТВ
+http://dmitry-tv.my1.ru/his/02/CH_SHANSONTV.m3u8
+#EXTINF:-1 ,1HD MUSIC TELEVISION HD
+http://dmitry-tv.my1.ru/his/02/CH_1HDMUSICTELEVISIONHD.m3u8
+#EXTINF:-1 ,ТНТ MUSIC HD
+http://dmitry-tv.my1.ru/his/02/CH_TNTMUSICHD.m3u8
+#EXTINF:-1 ,FreshTV
+http://dmitry-tv.my1.ru/his/yatv/CH_FRESHTV.m3u8
+#EXTINF:-1 ,0!2
+http://dmitry-tv.my1.ru/his/yatv/CH_02.m3u8
+#EXTINF:-1 ,0!2 HD
+http://dmitry-tv.my1.ru/his/yatv/CH_02HD.m3u8
+#EXTINF:-1 ,Радио Страна FM HD (720p)
+http://dmitry-tv.my1.ru/his/01/CH_STRANAFMHD_720.m3u8
+#EXTINF:-1 ,РORTAL FOXMIX TV
+http://dmitry-tv.my1.ru/his/01/CH_PORTALFOXMIXTV.m3u8
+#EXTINF:-1 ,Моя планета
+http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
+#EXTINF:-1 ,Терра Инкогнита
+http://dmitry-tv.my1.ru/his/yatv/CH_TERRAINCOGNITA.m3u8
+#EXTINF:-1 ,Терра Инкогнита HD (720p)
+http://dmitry-tv.my1.ru/his/yatv/CH_TERRAINCOGNITAHD_720.m3u8
+#EXTINF:-1 ,Загородный int
+http://dmitry-tv.my1.ru/his/yatv/CH_ZAGORODNY_INT.m3u8
+#EXTINF:-1 ,360° НОВОСТИ
+http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWS.m3u8
+#EXTINF:-1 ,360° НОВОСТИ HD
+http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWSHD.m3u8
+#EXTINF:-1 ,РБК
+http://dmitry-tv.my1.ru/his/01/CH_RBK.m3u8
