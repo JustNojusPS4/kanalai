@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz", url-tvg="http://itv.live/epg/fb7eb19698c1/epgfull.xml.gz"
 #EXTINF:-1 group-title="LT" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TV3_Group_Logo.svg/1200px-TV3_Group_Logo.svg.png",TV3
 http://45.145.32.15:20004/tv3/video.m3u8
 #EXTINF:-1 group-title="LT" tvg-id="tv6-lt" tvg-logo="http://res.lt/wp-content/uploads/2019/02/tv6_logo_hd-150x150.png",TV6
@@ -17,6 +17,78 @@ http://45.145.32.15:20005/lrt_plius_hd/vsideo.m3u8
 http://45.145.32.15:20004/tv1/svideo.m3u8
 #EXTINF:-1 group-title="LT" tvg-id"current-time",Current Time
 http://45.145.32.15:20004/current_time/svideo.m3u8
+
+
+#EXTINF:-1 tvg-id="ch498" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch498.png" group-title="Lithuania", TV1 HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch498/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f623d9d9fec
+#EXTINF:-1 tvg-id="ch490" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch490.png" group-title="Lithuania", TV3 HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch490/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f628a389fec
+#EXTINF:-1 tvg-id="ch495" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch495.png" group-title="Lithuania", TV6 HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch495/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b26299fec
+#EXTINF:-1 tvg-id="ch497" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch497.png" group-title="Lithuania", TV8 HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch497/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f655fcf9fec
+#EXTINF:-1 tvg-id="ch496" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch496.png" group-title="Lithuania", Info TV HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch496/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c5ed09fec
+#EXTINF:-1 tvg-id="ch493" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch493.png" group-title="Lithuania", LNK HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch493/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6135ef9fec
+#EXTINF:-1 tvg-id="ch586" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch586.png" group-title="Lithuania", LRT Plus HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch586/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6becae9fec
+#EXTINF:-1 tvg-id="ch499" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch499.png" group-title="Lithuania", Lietuvos Rytas HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch499/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ef4569fec
+#EXTINF:-1 tvg-id="ch492" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch492.png" group-title="Lithuania", BTV HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch492/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6545779fec
+#EXTINF:-1 tvg-id="ch491" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch491.png" group-title="Lithuania", LRT HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch491/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6089e29fec
+#EXTINF:-1 tvg-id="ch583" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch583.png" group-title="Lithuania", TV3 Film HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch583/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f66376b9fec
+#EXTINF:-1 tvg-id="ch582" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch582.png" group-title="Lithuania", SmartZone HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch582/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f680d7b9fec
+#EXTINF:-1 tvg-id="ch581" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch581.png" group-title="Lithuania", FilmZone+ HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch581/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f60744d9fec
+#EXTINF:-1 tvg-id="ch580" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch580.png" group-title="Lithuania", Epic Drama HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch580/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69683c9fec
+#EXTINF:-1 tvg-id="ch584" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch584.png" group-title="Lithuania", TV3 Sport HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch584/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6dd7579fec
+#EXTINF:-1 tvg-id="ch585" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch585.png" group-title="Lithuania", TV3 Sport 2 HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch585/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c20ca9fec
+#EXTINF:-1 tvg-id="ch494" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch494.png" group-title="Lithuania", Sport 1 HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch494/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6fe4159fec
+#EXTINF:-1 tvg-id="ch550" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch550.png" group-title="Lithuania", Arena HD
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch550/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f693a449fec
+#EXTINF:-1 tvg-id="ch590" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch590.png" group-title="Lithuania", Pirmais Baltijas
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch590/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f63cfdd9fec
+#EXTINF:-1 tvg-id="ch589" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch589.png" group-title="Lithuania", Balticum Auksinis
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch589/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69c0e39fec
+#EXTINF:-1 tvg-id="ch588" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch588.png" group-title="Lithuania", 2TV
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch588/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68bdd09fec
+#EXTINF:-1 tvg-id="ch587" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch587.png" group-title="Lithuania", Eurosport 1
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch587/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6330869fec
+#EXTINF:-1 tvg-id="ch591" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch591.png" group-title="Lithuania", KidZone TV
+#EXTGRP:1. Lithuania
+http://cloud03.02cdn.wf/ch591/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b6fac9fec
+
 
 
 #EXTINF:-1 group-title="Filmų",ФАНТАСТИКА HD
