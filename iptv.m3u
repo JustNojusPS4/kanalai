@@ -17,6 +17,10 @@ http://45.145.32.15:20005/lrt_plius_hd/vsideo.m3u8
 http://45.145.32.15:20004/tv1/svideo.m3u8
 #EXTINF:-1 group-title="LT" tvg-id"current-time",Current Time
 http://45.145.32.15:20004/current_time/svideo.m3u8
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/lt.png" group-title="LT",KOK Fights
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/lt.png" group-title="LT",KOK Fights
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby:dailyfreeiptvlist.com
 
 
 #EXTINF:-1 tvg-id="tv1-lt" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch498.png" group-title="Lithuania2", TV1 HD
