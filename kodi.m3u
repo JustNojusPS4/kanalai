@@ -56,9 +56,6 @@ http://cloud10.05cdn.wf/ch585/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c
 #EXTINF:-1 tvg-id="sport1-baltic" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch494.png" group-title="Lithuania", Sport 1 HD
 #EXTGRP:1. Lithuania
 http://cloud10.05cdn.wf/ch494/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6fe4156594
-#EXTINF:-1 tvg-id="ch550" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch550.png" group-title="Lithuania", Arena HD
-#EXTGRP:1. Lithuania
-http://cloud10.05cdn.wf/ch550/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f693a446594
 #EXTINF:-1 tvg-id="1-balt-lt" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch590.png" group-title="Lithuania", Pirmais Baltijas
 #EXTGRP:1. Lithuania
 http://cloud10.05cdn.wf/ch590/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f63cfdd6594
@@ -68,9 +65,6 @@ http://cloud10.05cdn.wf/ch589/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69
 #EXTINF:-1 tvg-id="liuks" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch588.png" group-title="Lithuania", 2TV
 #EXTGRP:1. Lithuania
 http://cloud10.05cdn.wf/ch588/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68bdd06594
-#EXTINF:-1 tvg-id="eurosport1" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch587.png" group-title="Lithuania", Eurosport 1
-#EXTGRP:1. Lithuania
-http://cloud10.05cdn.wf/ch587/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6330866594
 #EXTINF:-1 tvg-id="kidzone" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch591.png" group-title="Lithuania", KidZone TV
 #EXTGRP:1. Lithuania
 http://cloud10.05cdn.wf/ch591/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b6fac6594
@@ -115,9 +109,6 @@ http://45.145.32.15:20004/tv6/video.m3u8
 #EXTINF:-1,Discovery
 #EXTGRP:Познавательные
 http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
-#EXTINF:-1,Ultra HD Cinema FulHD
-#EXTGRP:Кинозалы
-#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 #EXTINF:-1,FAN HD
 #EXTGRP:Кинозалы
 #EXTVLCOPT:http-user-agent=smartlabs
@@ -156,8 +147,6 @@ http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1,Белгород 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
-#EXTINF:-1,Ветта 24 (Пермь) +2
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1,Вместе РФ HD
 http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
 #EXTINF:-1,Громадське TV [FHD]
@@ -200,10 +189,6 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1,Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
-#EXTINF:-1,Первый Музыкальный BY
-http://rtmp.one.by:1200
-#EXTINF:-1,Первый Музыкальный BY [FHD]
-http://rtmp.one.by:1300
 #EXTINF:-1,РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1,Радио Страна FM ТВ
@@ -240,99 +225,3 @@ http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTINF:-1,Югра ТВ (Ханты-Мансийск) +2
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Афонтово (Красноярск)
-http://xstream.afontovo.ru/afontovo_ya.m3u8
-#EXTINF:-1 tvg-id="bashkortostan24" tvg-name="Башкортостан 24" tvg-language="Russian" tvg-logo="https://gtrk.tv/sites/default/files/channels/mono/mono-b24.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Башкортостан 24
-http://live.gtrk.tv/720/b24-720.m3u8
-#EXTINF:-1 tvg-id="belgorod24" tvg-name="Белгород 24" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Белгород 24
-http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
-#EXTINF:-1 tvg-id="vetta24" tvg-name="Ветта 24 Пермь" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Ветта 24 (Пермь)
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-id="volgograd-1" tvg-name="Волгоград 1" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Волгоград 1
-https://strm.yandex.ru/kal/volgograd1/volgograd10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="http://www.volplus.ru/assets/img/logo_vlz_plus.png" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Волжский Плюс
-http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Губерния (Воронеж)
-http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
-#EXTINF:-1 tvg-id="gubernia-samara" tvg-name="Губерния Самара" tvg-language="Russian" tvg-logo="https://www.guberniatv.ru/img/logo.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Губерния (Самара)
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="gubernia-33" tvg-name="Губерния 33" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Губерния 33 (Владимир)
-http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="dajving-tv" tvg-name="Дайвинг.TV" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Дайвинг.TV
-https://strm.yandex.ru/kal/diving/diving0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Дисконт
-http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",ДОЖДЬ
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="evrasia" tvg-name="Евразия" tvg-language="Russian" tvg-logo="http://eurasia.orsk.ru/images/bg.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Евразия (Орск)
-http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
-#EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-language="Russian" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Жар Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-name="Известия" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/izvestia.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Каббала ТВ
-http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-name="Калейдоскоп ТВ" tvg-language="Russian" tvg-logo="http://k-telecom.org/uploadedFiles/images/logo/k_logo_colorblack_RGB.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Калейдоскоп ТВ
-http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",КиноЗаказ 2
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Красная линия
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 tvg-id="krik-tv" tvg-name="Крик-ТВ" tvg-language="Russian" tvg-logo="http://ricekb.ru/img/logo.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Крик-ТВ
-http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="krym24" tvg-name="Крым 24" tvg-language="Russian" tvg-logo="http://1tvcrimea.ru/assets/images/live_crimea24.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Крым 24
-http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",КТК
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 tvg-id="ldpr-tv" tvg-name="ЛДПР ТВ" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/ldpr-tv.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",ЛДПР ТВ
-http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="lipeckoe-vremia" tvg-name="Липецкое время" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Липецкое время
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Матур ТВ HD
-http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Между.Net (Междуреченск)
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Миллет
-http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 tvg-id="ministerstvo-idey" tvg-name="Министерство идей" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Министерство идей
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-pl4" tvg-name="Мир +4" tvg-language="Russian" tvg-logo="https://i.imgur.com/CrFWXTD.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Мир (+4)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-premium" tvg-name="Мир Premium" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Мир Premium
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-belogoria" tvg-name="Мир Белогорья" tvg-language="Russian" tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Мир Белогорья
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Москва 24
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="moskovsky-obrazovatelny" tvg-name="Московский образовательный" tvg-language="Russian" tvg-logo="http://online-red.com/images/tv/mosobr.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Московский образовательный
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 tvg-id="mtv-volgograd" tvg-name="МТВ Волгоград" tvg-language="Russian" tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",МТВ (Волгоград)
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-language="Russian" tvg-logo="https://hopetv.ru/wp-content/themes/hope.ua/public/img/header-hopeLogo.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Надежда
-http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="nebesa-tv7" tvg-name="Небеса ТВ7" tvg-language="Russian" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Небеса ТВ7
-http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Новое
-http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8?streamType=live
-#EXTINF:-1 tvg-id="novy-mir" tvg-name="Новый мир" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Новый мир
-http://persik.by/stream/8682/252987/10231.m3u8
-#EXTINF:-1 tvg-id="o2tv" tvg-name="О2ТВ" tvg-language="Russian" tvg-logo="https://ustanovca-tricorol-tv.ru/wp-content/uploads/2017/12/o-tv.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",О2ТВ
-https://strm.yandex.ru/kal/o2/o20_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Общественное Независимое Телевидение
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Одинцово ТВ
-http://185.18.4.16/live/3m/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Rusiški Kanalai 1",Оплот ТВ
-http://185.114.136.25/oplot-tv?streamType=live
-#EXTINF:-1 tvg-id="otr" tvg-name="ОТР" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/otr_ru.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",ОТР
-http://uiptv.do.am/1ufc/000000008/playlist.m3u8
-#EXTINF:-1 tvg-id="pervy-krymsky" tvg-name="Первый крымский" tvg-language="Russian" tvg-logo="http://1tvcrimea.ru/assets/images/live_1tvcrimea.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Первый крымский
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-language="Russian" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Rusiški Kanalai 1",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
