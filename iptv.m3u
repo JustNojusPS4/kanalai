@@ -88,6 +88,134 @@ http://cloud10.05cdn.wf/ch588/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68
 http://cloud10.05cdn.wf/ch591/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b6fac6594
 
 
+#EXTINF:-1 tvg-id="ch179" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch179.png" group-title="Познавательный", Discovery HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch179/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6339906594
+#EXTINF:-1 tvg-id="ch015" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch015.png" group-title="Познавательный", Discovery Science HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch015/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f668a0f6594
+#EXTINF:-1 tvg-id="ch454" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch454.png" group-title="Познавательный", Investigation Discovery HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch454/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6deffa6594
+#EXTINF:-1 tvg-id="ch455" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch455.png" group-title="Познавательный", DTX HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch455/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6e5a936594
+#EXTINF:-1 tvg-id="ch402" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch402.png" group-title="Познавательный", Travel Channel HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch402/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6dfd8c6594
+#EXTINF:-1 tvg-id="ch178" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch178.png" group-title="Познавательный", Travel+Adventure HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch178/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69a57c6594
+#EXTINF:-1 tvg-id="ch427" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch427.png" group-title="Познавательный", RTG HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch427/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6991a76594
+#EXTINF:-1 tvg-id="ch316" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch316.png" group-title="Познавательный", HGTV HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch316/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6f137d6594
+#EXTINF:-1 tvg-id="ch357" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch357.png" group-title="Познавательный", TLC HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch357/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6352946594
+#EXTINF:-1 tvg-id="ch089" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch089.png" group-title="Познавательный", HD Life
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch089/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f67cc7e6594
+#EXTINF:-1 tvg-id="ch071" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch071.png" group-title="Познавательный", National Geographic HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch071/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f67c7e76594
+#EXTINF:-1 tvg-id="ch052" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch052.png" group-title="Познавательный", Nat Geo Wild HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch052/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6055e56594
+#EXTINF:-1 tvg-id="ch169" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch169.png" group-title="Познавательный", History Europe HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch169/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6a74766594
+#EXTINF:-1 tvg-id="ch176" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch176.png" group-title="Познавательный", H2 HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch176/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c5f336594
+#EXTINF:-1 tvg-id="ch401" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch401.png" group-title="Познавательный", В мире животных HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch401/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f64ae996594
+#EXTINF:-1 tvg-id="ch091" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch091.png" group-title="Познавательный", Живая Природа HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch091/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6f92e86594
+#EXTINF:-1 tvg-id="ch468" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch468.png" group-title="Познавательный", Galaxy HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch468/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f60a6bb6594
+#EXTINF:-1 tvg-id="ch047" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch047.png" group-title="Познавательный", Наука 2.0 HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch047/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6bb3f66594
+#EXTINF:-1 tvg-id="ch400" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch400.png" group-title="Познавательный", Планета HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch400/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f696df76594
+#EXTINF:-1 tvg-id="ch353" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch353.png" group-title="Познавательный", Глазами Туриста HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch353/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f607cca6594
+#EXTINF:-1 tvg-id="ch831" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch831.png" group-title="Познавательный", Поехали HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch831/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f632d216594
+#EXTINF:-1 tvg-id="ch008" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch008.png" group-title="Познавательный", Космический HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch008/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6dbf1e6594
+#EXTINF:-1 tvg-id="ch070" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch070.png" group-title="Познавательный", Приключения HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch070/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f63ed316594
+#EXTINF:-1 tvg-id="ch350" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch350.png" group-title="Познавательный", DocuBox HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch350/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6e2de36594
+#EXTINF:-1 tvg-id="ch193" tvg-rec="2" tvg-logo="http://api.itv.live/icon/ch193.png" group-title="Познавательный", Конный Мир HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch193/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f64874f6594
+#EXTINF:-1 tvg-id="ch486" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch486.png" group-title="Познавательный", Food Network HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch486/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b42806594
+#EXTINF:-1 tvg-id="ch137" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch137.png" group-title="Познавательный", Viasat Nature/History HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch137/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6a4b736594
+#EXTINF:-1 tvg-id="ch049" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch049.png" group-title="Познавательный", Viasat Nature
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch049/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ba8056594
+#EXTINF:-1 tvg-id="ch147" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch147.png" group-title="Познавательный", Viasat History
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch147/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f606fe46594
+#EXTINF:-1 tvg-id="ch048" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch048.png" group-title="Познавательный", Viasat Explorer
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch048/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f67b9446594
+#EXTINF:-1 tvg-id="ch050" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch050.png" group-title="Познавательный", Animal Planet
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch050/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f62875c6594
+#EXTINF:-1 tvg-id="ch051" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch051.png" group-title="Познавательный", Домашние животные
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch051/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f64ed606594
+#EXTINF:-1 tvg-id="ch017" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch017.png" group-title="Познавательный", Охотник и Рыболов HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch017/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ceb1b6594
+#EXTINF:-1 tvg-id="ch314" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch314.png" group-title="Познавательный", Дикая Рыбалка HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch314/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f67c25e6594
+#EXTINF:-1 tvg-id="ch315" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch315.png" group-title="Познавательный", Дикая Охота HD
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch315/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f66688f6594
+#EXTINF:-1 tvg-id="ch142" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch142.png" group-title="Познавательный", Диалоги о Рыбалке
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch142/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6f823b6594
+#EXTINF:-1 tvg-id="ch143" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch143.png" group-title="Познавательный", Охота и рыбалка
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch143/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6e8a8e6594
+#EXTINF:-1 tvg-id="ch144" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch144.png" group-title="Познавательный", Усадьба
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch144/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68f37f6594
+#EXTINF:-1 tvg-id="ch145" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch145.png" group-title="Познавательный", Оружие
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch145/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68471d6594
+#EXTINF:-1 tvg-id="ch170" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch170.png" group-title="Познавательный", История
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch170/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ed8476594
+#EXTINF:-1 tvg-id="ch171" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch171.png" group-title="Познавательный", Da Vinci Learning
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch171/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ae8596594
+#EXTINF:-1 tvg-id="ch434" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch434.png" group-title="Познавательный", Luxury
+#EXTGRP:1. Познавательный
+http://cloud15.05cdn.wf/ch434/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c81b56594
+
+
 #EXTINF:-1,Дом Кино
 #EXTGRP:Filmų
 http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
