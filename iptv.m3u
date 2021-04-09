@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz", url-tvg="http://itv.live/epg/fb7eb19698c1/epgfull.xml.gz"
 #EXTINF:-1 group-title="LT" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TV3_Group_Logo.svg/1200px-TV3_Group_Logo.svg.png",TV3
-http://45.145.32.15:20004/tv3/video.m3u8
+http://cdn7.tvplayhome.lt/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD-avc1_2200000=10011.m3u8
 #EXTINF:-1 group-title="LT" tvg-id="tv6-lt" tvg-logo="http://res.lt/wp-content/uploads/2019/02/tv6_logo_hd-150x150.png",TV6
-http://45.145.32.15:20004/tv6/video.m3u8
+https://cdn7.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD-avc1_2200000=10008.m3u8
 #EXTINF:-1 group-title="LT" tvg-id="lnk" tvg-logo="http://lzs.lt/images/12358/36427/aaaalnk%20logo.jpg",LNK
 http://45.145.32.15:20004/lnk/vidseo.m3u8
 #EXTINF:-1 group-title="LT" tvg-id="tv8-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TV8_logo_for_Sweden_and_Lithuania.png/150px-TV8_logo_for_Sweden_and_Lithuania.png",TV8
