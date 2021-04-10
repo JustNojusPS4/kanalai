@@ -34,6 +34,17 @@ http://51.195.152.71:8888/channel/2e5a361b/index.m3u8?q=1618050756907
 http://51.195.152.71:8888/channel/n6ef6f74d/index.m3u8?q=1618050756907
 
 
+#EXTINF:-1 group-title="LT",DF005LT--TV3 LT
+#EXTGRP:LT
+http://185.246.154.18:8181/channel/48136760/index.m3u8?q=1618050405805
+#EXTINF:-1 group-title="LT",DF006LT--TV6 LT
+#EXTGRP:LT
+http://185.246.154.18:8181/channel/n230688c2/index.m3u8?q=1618050405805
+#EXTINF:-1 group-title="LT",DF027LT--LNK HD LT
+#EXTGRP:LT
+http://185.246.154.18:8181/channel/15a6d12c/index.m3u8?q=1618050405805
+
+
 #EXTINF:-1 group-title="Русские" tvg-id="hlsproxy-362" tvg-logo="http://only4.tv/ch/20105.png",Первый канал HD
 http://51.195.152.71:8888/channel/n6d936980/index.m3u8?q=1618050756907
 #EXTINF:-1 group-title="Русские" tvg-id="hlsproxy-362" tvg-logo="http://only4.tv/ch/1101.png",Первый канал (Россия)
