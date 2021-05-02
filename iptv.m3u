@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz", url-tvg="http://51.195.152.71:8888/epg.xml.gz?q=1618050756907"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 group-title="Lietuviški" tvg-name="TV3 Lithuania HD" tvg-id="hlsproxy-8255" tvg-logo="http://ottpink.network/picons/tv3.png",TV3 Lithuania HD
 
