@@ -5,6 +5,10 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
 https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
 
 
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV3 Lithuania HD" tvg-id="hlsproxy-8255" tvg-logo="http://ottpink.network/picons/tv3.png",TV3 Lithuania HD
+http://5.9.21.114:3000/vaida120/xVoZ53iKuM/62
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV6 Lithuania HD" tvg-id="hlsproxy-8256" tvg-logo="http://ottpink.network/picons/tv6.png",TV6 Lithuania HD
+http://5.9.21.114:3000/vaida120/xVoZ53iKuM/63
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lnkyvhd.png" tvg-name="LNK HD (LT)" tvg-id="hlsproxy-8161",LNK HD (LT)
 http://5.9.21.114:3000/vaida120/xVoZ53iKuM/57
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3filmhd.png" tvg-name="TV3 Film HD (LT/LV/ES/RU)" tvg-id="hlsproxy-54791",TV3 Film HD (LT/LV/ES/RU)
@@ -27,9 +31,9 @@ http://5.9.21.114:3000/vaida120/xVoZ53iKuM/58
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3sport.png" tvg-name="TV3 Spоrt HD (LT)" tvg-id="hlsproxy-8408",TV3 Spоrt HD (LT)
 
-#EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3sport.png" tvg-name="TV1" tvg-id="hlsproxy-8408",TV1
+#EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/tv1.png" tvg-name="TV1" tvg-id="hlsproxy-8408",TV1
 http://5.9.21.114:3000/vaida120/xVoZ53iKuM/50
-#EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3sport.png" tvg-name="TV8" tvg-id="hlsproxy-8408",TV8
+#EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/tv8.png" tvg-name="TV8" tvg-id="hlsproxy-8408",TV8
 http://5.9.21.114:3000/vaida120/xVoZ53iKuM/55
 
 
