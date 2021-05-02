@@ -1,23 +1,23 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz", url-tvg="http://51.195.152.71:8888/epg.xml.gz?q=1618050756907"
 
 #EXTINF:-1 group-title="Lietuviški" tvg-name="TV3 Lithuania HD" tvg-id="hlsproxy-8255" tvg-logo="http://ottpink.network/picons/tv3.png",TV3 Lithuania HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/62
+
 #EXTINF:-1 group-title="Lietuviški" tvg-name="TV6 Lithuania HD" tvg-id="hlsproxy-8256" tvg-logo="http://ottpink.network/picons/tv6.png",TV6 Lithuania HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/63
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lnkyvhd.png" tvg-name="LNK HD (LT)" tvg-id="hlsproxy-8161",LNK HD (LT)
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/57
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3filmhd.png" tvg-name="TV3 Film HD (LT/LV/ES/RU)" tvg-id="hlsproxy-54791",TV3 Film HD (LT/LV/ES/RU)
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/balticum-auksinis.png" tvg-name="Balticum Auksinis" tvg-id="hlsproxy-51125",Balticum Auksinis
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/btvhd.png" tvg-name="BTV HD (LT)" tvg-id="hlsproxy-8059",BTV HD (LT)
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/52
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lrthdtv.png" tvg-name="LRT HD (LT)" tvg-id="hlsproxy-8183",LRT HD (LT)
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/56
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lrtpliushd.png" tvg-name="LRT Plius HD (LT)" tvg-id="hlsproxy-8182",LRT Plius HD (LT)
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lrytastv.png" tvg-name="LRytas HD (LT)" tvg-id="hlsproxy-8162",LRytas HD (LT)
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/58
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/infotv.png" tvg-name="Info TV HD (LT)" tvg-id="hlsproxy-8159",Info TV HD (LT)
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/epicdramahd.png" tvg-name="Epic Drama HD (LT/RU/EN)" tvg-id="hlsproxy-54245",Epic Drama HD (LT/RU/EN)
@@ -27,282 +27,10 @@ http://5.9.21.114:3000/vaida120/xVoZ53iKuM/58
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3sport.png" tvg-name="TV3 Spоrt HD (LT)" tvg-id="hlsproxy-8408",TV3 Spоrt HD (LT)
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/tv1.png" tvg-name="TV1" tvg-id="hlsproxy-8408",TV1
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/50
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/tv8.png" tvg-name="TV8" tvg-id="hlsproxy-8408",TV8
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/55
 
 
-#EXTINF:-1 group-title="Kino",TV1000
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/204
-#EXTINF:-1 group-title="Kino",TV1000 HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/205
-#EXTINF:-1 group-title="Kino",TV1000 Action
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/206
-#EXTINF:-1 group-title="Kino",TV1000 Action HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/207
-#EXTINF:-1 group-title="Kino",TV1000 World Kino
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/208
-#EXTINF:-1 group-title="Kino",TV1000 русское кино
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/209
-#EXTINF:-1 group-title="Kino",TV1000 Русское кино HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/210
-#EXTINF:-1 group-title="Kino",VIP Comedy HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/211
-#EXTINF:-1 group-title="Kino",VIP Comedy CEE HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/212
-#EXTINF:-1 group-title="Kino",VIP Megahit Full HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/213
-#EXTINF:-1 group-title="Kino",VIP Megahit HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/214
-#EXTINF:-1 group-title="Kino",VIP Serial
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/215
-#EXTINF:-1 group-title="Kino",VIP Premiere Full HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/216
-#EXTINF:-1 group-title="Kino",VIP Premiere HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/217
-#EXTINF:-1 group-title="Kino",Душевное HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/218
-#EXTINF:-1 group-title="Kino",Наш Кинопоказ HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/219
-#EXTINF:-1 group-title="Kino",Наше крутое HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/220
-#EXTINF:-1 group-title="Kino",Наше любимое HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/221
-#EXTINF:-1 group-title="Kino",Наше Мужское HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/222
-#EXTINF:-1 group-title="Kino",Хит HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/223
-#EXTINF:-1 group-title="Kino",Блокбастер HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/224
-#EXTINF:-1 group-title="Kino",Остросюжетное HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/225
-#EXTINF:-1 group-title="Kino",Страшное HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/226
-#EXTINF:-1 group-title="Kino",Киноужас HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/227
-#EXTINF:-1 group-title="Kino",Про Любовь HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/228
-#EXTINF:-1 group-title="Kino",Премиальное HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/229
-#EXTINF:-1 group-title="Kino",КИНОПРЕМЬЕРА HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/230
-#EXTINF:-1 group-title="Kino",Камеди HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/231
-#EXTINF:-1 group-title="Kino",КИНОХИТ
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/232
-#EXTINF:-1 group-title="Kino",КИНОСЕМЬЯ
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/233
-#EXTINF:-1 group-title="Kino",КИНОСВИДАНИЕ
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/234
-#EXTINF:-1 group-title="Kino",КИНОКОМЕДИЯ
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/235
-#EXTINF:-1 group-title="Kino",Шокирующее
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/236
-#EXTINF:-1 group-title="Kino",Комедийное
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/237
-#EXTINF:-1 group-title="Kino",AMEDIA 1 HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/238
-#EXTINF:-1 group-title="Kino",Amedia 1
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/239
-#EXTINF:-1 group-title="Kino",Amedia 2
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/240
-#EXTINF:-1 group-title="Kino",Amedia Hit
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/241
-#EXTINF:-1 group-title="Kino",Amedia premium
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/242
-#EXTINF:-1 group-title="Kino",AMEDIA Premium HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/243
-#EXTINF:-1 group-title="Kino",Fox Life HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/244
-#EXTINF:-1 group-title="Kino",FOX HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/245
-#EXTINF:-1 group-title="Kino",Epic Drama HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/246
-#EXTINF:-1 group-title="Kino",Spike
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/247
-#EXTINF:-1 group-title="Kino",HD Media
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/248
-#EXTINF:-1 group-title="Kino",Sony Turbo
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/249
-#EXTINF:-1 group-title="Kino",Sony HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/250
-#EXTINF:-1 group-title="Kino",SONY Sci-Fi
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/251
-#EXTINF:-1 group-title="Kino",Paramount Channel HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/252
-#EXTINF:-1 group-title="Kino",AMC
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/253
-#EXTINF:-1 group-title="Kino",Hollywood HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/254
-#EXTINF:-1 group-title="Kino",Paramount Comedy Russia
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/255
-#EXTINF:-1 group-title="Kino",Sony Entertainment Television
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/256
-#EXTINF:-1 group-title="Kino",Fox Life
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/257
-#EXTINF:-1 group-title="Kino",Fox
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/258
-#EXTINF:-1 group-title="Kino",TV XXI
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/259
-#EXTINF:-1 group-title="Kino",Paramount Comedy HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/260
-#EXTINF:-1 group-title="Kino",НТВ Сериал
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/261
-#EXTINF:-1 group-title="Kino",НТВ Хит
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/262
-#EXTINF:-1 group-title="Kino",Кинопоказ
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/263
-#EXTINF:-1 group-title="Kino",Киносат
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/264
-#EXTINF:-1 group-title="Kino",Кино ТВ HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/265
-#EXTINF:-1 group-title="Kino",BCU Action HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/266
-#EXTINF:-1 group-title="Kino",BCU Catastrophe HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/267
-#EXTINF:-1 group-title="Kino",BCU Comedy HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/268
-#EXTINF:-1 group-title="Kino",BCU Cinema HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/269
-#EXTINF:-1 group-title="Kino",BCU CINEMA+ HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/270
-#EXTINF:-1 group-title="Kino",BCU Fantastic HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/271
-#EXTINF:-1 group-title="Kino",BCU STARS HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/272
-#EXTINF:-1 group-title="Kino",BCU FilMystic HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/273
-#EXTINF:-1 group-title="Kino",BCU History HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/274
-#EXTINF:-1 group-title="Kino",BCU Kinorating HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/275
-#EXTINF:-1 group-title="Kino",BCU Marvel
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/276
-#EXTINF:-1 group-title="Kino",BCU Premiere HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/277
-#EXTINF:-1 group-title="Kino",BCU Romantic HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/278
-#EXTINF:-1 group-title="Kino",BCU Russian HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/279
-#EXTINF:-1 group-title="Kino",BCU VHS HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/280
-#EXTINF:-1 group-title="Kino",BCU Кинозал Premiere 1 HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/281
-#EXTINF:-1 group-title="Kino",BCU Кинозал Premiere 2 HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/282
-#EXTINF:-1 group-title="Kino",BCU Кинозал Premiere 3 HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/283
-#EXTINF:-1 group-title="Kino",BCU Кинозал Premiere 4 HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/284
-#EXTINF:-1 group-title="Kino",BCU Ruserial HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/285
-#EXTINF:-1 group-title="Kino",BCU СВАТЫ HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/286
-#EXTINF:-1 group-title="Kino",BCU СССР HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/287
-#EXTINF:-1 group-title="Kino",BCU Criminal HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/288
-#EXTINF:-1 group-title="Kino",BCU Ultra 4K
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/289
-#EXTINF:-1 group-title="Kino",KBC_В.О.В.
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/290
-#EXTINF:-1 group-title="Kino",KBC_comics
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/291
-#EXTINF:-1 group-title="Kino",KBC_elite comedy's
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/292
-#EXTINF:-1 group-title="Kino",KBC_fantastic
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/293
-#EXTINF:-1 group-title="Kino",KBC_history
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/294
-#EXTINF:-1 group-title="Kino",KBC_newfilm
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/295
-#EXTINF:-1 group-title="Kino",KBC_premium
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/296
-#EXTINF:-1 group-title="Kino",KBC_Russian Комедия
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/297
-#EXTINF:-1 group-title="Kino",KBC_VIDAK
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/298
-#EXTINF:-1 group-title="Kino",KBC_ГАЙ Ritchie & Tarantino
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/299
-#EXTINF:-1 group-title="Kino",KBC_drama tic
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/300
-#EXTINF:-1 group-title="Kino",KBC_kinoteatr
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/301
-#EXTINF:-1 group-title="Kino",KBC_koshmarnoe
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/302
-#EXTINF:-1 group-title="Kino",KBC Strana sssr
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/303
-#EXTINF:-1 group-title="Kino",KBC_Тест
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/304
-#EXTINF:-1 group-title="Kino",KBC_Шпионское
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/305
-#EXTINF:-1 group-title="Kino",Киноджем 1 HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/306
-#EXTINF:-1 group-title="Kino",Киноджем 2 HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/307
-#EXTINF:-1 group-title="Kino",FilmBox
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/308
-#EXTINF:-1 group-title="Kino",FilmBox Arthouse
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/309
-#EXTINF:-1 group-title="Kino",Star Family HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/310
-#EXTINF:-1 group-title="Kino",Star Cinema HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/311
-#EXTINF:-1 group-title="Kino",FilmUA Drama
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/312
-#EXTINF:-1 group-title="Kino",Романтичное HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/313
-#EXTINF:-1 group-title="Kino",Родное кино
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/314
-#EXTINF:-1 group-title="Kino",Bolt HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/315
-#EXTINF:-1 group-title="Kino",Дом кино премиум HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/316
-#EXTINF:-1 group-title="Kino",Дом Кино
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/317
-#EXTINF:-1 group-title="Kino",Еврокино
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/318
-#EXTINF:-1 group-title="Kino",Русский роман
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/319
-#EXTINF:-1 group-title="Kino",Русский Иллюзион
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/320
-#EXTINF:-1 group-title="Kino",Иллюзион +
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/321
-#EXTINF:-1 group-title="Kino",Мосфильм HD
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/322
-#EXTINF:-1 group-title="Kino",Мосфильм. Золотая коллекция
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/323
-#EXTINF:-1 group-title="Kino",Мужское кино
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/324
-#EXTINF:-1 group-title="Kino",Наше новое кино
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/325
-#EXTINF:-1 group-title="Kino",Советское кино
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/327
-#EXTINF:-1 group-title="Kino",Победа
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/328
-#EXTINF:-1 group-title="Kino",Русская комедия
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/329
-#EXTINF:-1 group-title="Kino",Русский бестселлер
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/330
-#EXTINF:-1 group-title="Kino",Русский детектив
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/331
-#EXTINF:-1 group-title="Kino",Киномикс
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/332
-#EXTINF:-1 group-title="Kino",Киносерия
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/333
-#EXTINF:-1 group-title="Kino",Любимое кино
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/334
-#EXTINF:-1 group-title="Kino",Мир сериала
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/335
-#EXTINF:-1 group-title="Kino",Cinema
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/336
-#EXTINF:-1 group-title="Kino",Индийское Кино
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/338
-#EXTINF:-1 group-title="Kino",Феникс+ Кино
-http://5.9.21.114:3000/vaida120/xVoZ53iKuM/339
-
-
-#EXTM3U
 #EXTINF:-1 group-title="Познавательные",Hunt Channel (English)
 http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Made in Russia TV
