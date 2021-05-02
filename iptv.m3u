@@ -1,31 +1,31 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz", url-tvg="http://51.195.152.71:8888/epg.xml.gz?q=1618050756907"
 
 #EXTINF:-1 group-title="Lietuviški" tvg-name="TV3 Lithuania HD" tvg-id="hlsproxy-8255" tvg-logo="http://51.195.152.71:8888/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv-3-lietuva-lv.png",TV3 Lithuania HD
-http://185.246.154.18:8181/channel/48136760/index.m3u8?q=1618050405805
+
 #EXTINF:-1 group-title="Lietuviški" tvg-name="TV6 Lithuania HD" tvg-id="hlsproxy-8256" tvg-logo="http://51.195.152.71:8888/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv6-lietuva-lt.png",TV6 Lithuania HD
-http://185.246.154.18:8181/channel/n230688c2/index.m3u8?q=1618050405805
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lnkyvhd.png" tvg-name="LNK HD (LT)" tvg-id="hlsproxy-8161",LNK HD (LT)
-http://51.195.152.71:8888/channel/7a41db30/index.m3u8?q=1618050756907
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3filmhd.png" tvg-name="TV3 Film HD (LT/LV/ES/RU)" tvg-id="hlsproxy-54791",TV3 Film HD (LT/LV/ES/RU)
-http://51.195.152.71:8888/channel/n64410782/index.m3u8?q=1618050756907
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/balticum-auksinis.png" tvg-name="Balticum Auksinis" tvg-id="hlsproxy-51125",Balticum Auksinis
-http://51.195.152.71:8888/channel/63babedc/index.m3u8?q=1618050756907
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/btvhd.png" tvg-name="BTV HD (LT)" tvg-id="hlsproxy-8059",BTV HD (LT)
-http://51.195.152.71:8888/channel/n3e03b495/index.m3u8?q=1618050756907
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lrthdtv.png" tvg-name="LRT HD (LT)" tvg-id="hlsproxy-8183",LRT HD (LT)
-http://51.195.152.71:8888/channel/n7e30794b/index.m3u8?q=1618050756907
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lrtpliushd.png" tvg-name="LRT Plius HD (LT)" tvg-id="hlsproxy-8182",LRT Plius HD (LT)
-http://51.195.152.71:8888/channel/n7a0c4140/index.m3u8?q=1618050756907
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lrytastv.png" tvg-name="LRytas HD (LT)" tvg-id="hlsproxy-8162",LRytas HD (LT)
-http://51.195.152.71:8888/channel/n333a735a/index.m3u8?q=1618050756907
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/infotv.png" tvg-name="Info TV HD (LT)" tvg-id="hlsproxy-8159",Info TV HD (LT)
-http://51.195.152.71:8888/channel/513aa33b/index.m3u8?q=1618050756907
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/epicdramahd.png" tvg-name="Epic Drama HD (LT/RU/EN)" tvg-id="hlsproxy-54245",Epic Drama HD (LT/RU/EN)
-http://51.195.152.71:8888/channel/n35a365c7/index.m3u8?q=1618050756907
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3sport2.png" tvg-name="TV3 Spоrt 2 HD" tvg-id="hlsproxy-8408",TV3 Spоrt 2 HD
-http://51.195.152.71:8888/channel/3819916c/index.m3u8?q=1618050756907
+
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3sport.png" tvg-name="TV3 Spоrt HD (LT)" tvg-id="hlsproxy-8408",TV3 Spоrt HD (LT)
-http://51.195.152.71:8888/channel/2e5a361b/index.m3u8?q=1618050756907
+
 
 
 #EXTINF:-1,ЛенТв24
