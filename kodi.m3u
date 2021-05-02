@@ -6,19 +6,19 @@ https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
 
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lnkyvhd.png" tvg-name="LNK HD (LT)" tvg-id="hlsproxy-8161",LNK HD (LT)
-
+http://5.9.21.114:3000/vaida120/xVoZ53iKuM/57
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3filmhd.png" tvg-name="TV3 Film HD (LT/LV/ES/RU)" tvg-id="hlsproxy-54791",TV3 Film HD (LT/LV/ES/RU)
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/balticum-auksinis.png" tvg-name="Balticum Auksinis" tvg-id="hlsproxy-51125",Balticum Auksinis
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/btvhd.png" tvg-name="BTV HD (LT)" tvg-id="hlsproxy-8059",BTV HD (LT)
-
+http://5.9.21.114:3000/vaida120/xVoZ53iKuM/52
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lrthdtv.png" tvg-name="LRT HD (LT)" tvg-id="hlsproxy-8183",LRT HD (LT)
-
+http://5.9.21.114:3000/vaida120/xVoZ53iKuM/56
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lrtpliushd.png" tvg-name="LRT Plius HD (LT)" tvg-id="hlsproxy-8182",LRT Plius HD (LT)
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lrytastv.png" tvg-name="LRytas HD (LT)" tvg-id="hlsproxy-8162",LRytas HD (LT)
-
+http://5.9.21.114:3000/vaida120/xVoZ53iKuM/58
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/infotv.png" tvg-name="Info TV HD (LT)" tvg-id="hlsproxy-8159",Info TV HD (LT)
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/epicdramahd.png" tvg-name="Epic Drama HD (LT/RU/EN)" tvg-id="hlsproxy-54245",Epic Drama HD (LT/RU/EN)
@@ -27,6 +27,10 @@ https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
 
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3sport.png" tvg-name="TV3 Spоrt HD (LT)" tvg-id="hlsproxy-8408",TV3 Spоrt HD (LT)
 
+#EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3sport.png" tvg-name="TV1" tvg-id="hlsproxy-8408",TV1
+http://5.9.21.114:3000/vaida120/xVoZ53iKuM/50
+#EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/3sport.png" tvg-name="TV8" tvg-id="hlsproxy-8408",TV8
+http://5.9.21.114:3000/vaida120/xVoZ53iKuM/55
 
 
 #EXTINF:-1,FAN HD
