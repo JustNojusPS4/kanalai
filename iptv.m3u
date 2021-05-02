@@ -302,6 +302,123 @@ http://5.9.21.114:3000/vaida120/xVoZ53iKuM/338
 http://5.9.21.114:3000/vaida120/xVoZ53iKuM/339
 
 
+#EXTM3U
+#EXTINF:-1 group-title="Познавательные",Hunt Channel (English)
+http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Made in Russia TV
+http://api.alpaca.t62a.com/hls/9107/stream0.m3u8
+#EXTINF:-1 group-title="Познавательные",Nano
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="Познавательные",Russian Travel Guide
+http://94.230.240.12:8080/rtg/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Silence TV WORLD HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2345.png",TLC
+http://edge04.beetv.kz/btv/SWM/TLC/TLC_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Wness TV HD
+https://wness104.neterra.tv/wness/wness.stream/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/eda-hd.png",Еда HD
+http://94.230.240.12:8080/edahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/zdorovoe-tv.png",Здоровое ТВ
+http://37.17.12.119:8909/play/a00c
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/moya-planeta.png",Моя Планета
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Познавательные",Океан ТВ
+http://94.230.240.12:8080/oceantv/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2296.png",Просвещение
+https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tvoetv.online/img/ch_icons/tri_angela.png",Три Ангела HD
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 group-title="Познавательные",Успех
+http://mhd.iptv2022.com/p/cV7L4JYNurJ1V5UY2zYeUw,1619601425/streaming/uspeh/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Nature Relaxation HD
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",World HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Terra Incognita HD
+http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel Guid-TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/51763/2a00000169818d10b7d02c8149dccf3ddbbf/orig",Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1 group-title="Познавательные",Неизвестная планета
+http://mhd.iptv2022.com/p/vTvPiccRvGQb_3SXzKAlaQ,1619601425/streaming/np/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Терра Инкогнита
+http://mhd.iptv2022.com/p/hBfmfc6dRvROFlO5XeEaYw,1619601425/streaming/terra/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Дамский клуб
+http://mhd.iptv2022.com/p/GuwU_Z9rzn33AzEYLX9kgQ,1619601425/streaming/tdk/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",АКВА ТВ
+http://mhd.iptv2022.com/p/6G2x3zuLUa3vQGtatf19Gg,1619601426/streaming/aqua/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",MTVmix (УФА)
+http://mhd.iptv2022.com/p/FAm2hu1EgQknFeyfLVQh-w,1619601427/streaming/mtvmix/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Прибой ТВ (Дагестан)
+http://mhd.iptv2022.com/p/vzkDI-N5Wrc3WHVkSM8zzA,1619601427/streaming/priboy/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Нефтекамск 24
+http://mhd.iptv2022.com/p/N7kWUt4pe1E8f408FIe-Aw,1619601427/streaming/neftekamsk/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Калейдоскоп ТВ
+http://mhd.iptv2022.com/p/ZftO2agB564yJ-k_O4pssw,1619601425/streaming/kaleidoskop/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Первый Вегетарианский
+http://mhd.iptv2022.com/p/6V8U2Fd5qKwHDtrwgjQFsw,1619601425/streaming/firstvegan/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",TravelGuideTV
+http://mhd.iptv2022.com/p/dwLV2-o-ST-F4TnI2JJPkA,1619601425/streaming/travelguidetv/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Большая Азия
+http://mhd.iptv2022.com/p/NjVVw4_EE27ej3ga-U4JHg,1619601426/streaming/bigasia/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",11 канал (Пенза)
+http://mhd.iptv2022.com/p/dLvS3K5wiXrnNtH_NsapBg,1619601426/streaming/11channel/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Глазами туриста
+http://mhd.iptv2022.com/p/nywVz9OwUnNbW-oYULC0hg,1619429284/streaming/tourist_eyes/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic Wild HD
+https://s3.idata.uz/dars3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://edge04.beetv.kz/btv/SWM/Animal_planet/Animal_planet_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://edge04.beetv.kz/btv/SWM/Discovery_channel/Discovery_channel_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery HD
+http://edge04.beetv.kz/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",English Club TV
+http://edge04.beetv.kz/btv/SWM/English_Club_TV/English_Club_TV_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",HDL
+http://edge04.beetv.kz/btv/SWM/HDLife/HDLife_270p_1200kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",HDL HD
+http://edge04.beetv.kz/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",TLC HD
+http://edge04.beetv.kz/btv/SWM/tlc_hd/tlc_hd_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",Бобёр
+http://edge04.beetv.kz/btv/SWM/Bober/Bober_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя планета HD
+http://edge04.beetv.kz/btv/SWM/PlanetaHD/PlanetaHD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",Загородная жизнь HD
+http://edge04.beetv.kz/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные",VIP Viasat Nature/History HD
+http://iptv.prosto.tv:7000/ch83/video.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-197" tvg-logo="http://epg.it999.ru/img/765.png" group-title="Познавательные",Viasat Nature
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-194" tvg-logo="https://iptvx.one/icn/viasat-explore.png" group-title="Познавательные",Viasat Explore
+http://iptv.prosto.tv:7000/ch85/video.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-196" tvg-logo="https://iptvx.one/icn/viasat-history.png" group-title="Познавательные",Viasat History
+http://iptv.prosto.tv:7000/ch86/video.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-95" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a0000015655c7894893ebb44aaca239138a/orig" group-title="Познавательные",History
+http://iptv.prosto.tv:7000/ch87/video.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-8291" group-title="Познавательные",Рибалка
+http://iptv.prosto.tv:7000/ch88/video.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-100055" tvg-logo="https://iptvx.one/icn/trofey.png" group-title="Познавательные",Трофей HD
+http://iptv.prosto.tv:7000/ch89/video.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-100031" tvg-logo="https://iptvx.one/icn/nauka.png" group-title="Познавательные",Наука
+http://iptv.prosto.tv:7000/ch90/video.m3u8
+#EXTINF:-1 group-title="Познавательные",Эпоха HD
+http://iptv.prosto.tv:7000/ch91/video.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-543" tvg-logo="https://iptvx.one/icn/dacha.png" group-title="Познавательные",Дача HD
+http://iptv.prosto.tv:7000/ch92/video.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-572" tvg-logo="https://iptvx.one/icn/docubox-hd.png" group-title="Познавательные",DocuBox HD
+http://iptv.prosto.tv:7000/ch93/video.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-477" tvg-logo="https://iptvx.one/icn/fauna.png" group-title="Познавательные",Фауна
+http://iptv.prosto.tv:7000/ch95/video.m3u8
+#EXTINF:-1 tvg-id="hlsproxy-473" tvg-logo="https://iptvx.one/icn/eko-tv.png" group-title="Познавательные",Эко-ТВ
+http://iptv.prosto.tv:7000/ch97/video.m3u8
+
+
 #EXTINF:-1,ЛенТв24
 #EXTGRP:Filmų
 http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
