@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 group-title="Lietuviški" tvg-name="TV3 Lithuania HD" tvg-id="hlsproxy-8255" tvg-logo="http://ottpink.network/picons/tv3.png",TV3 Lithuania HD
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV3 Lithuania HD" tvg-id="hlsproxy-8255" tvg-logo="http://api.itv.live/icon/ch490.png",TV3 Lithuania HD
 http://cloud15.05cdn.wf/ch490/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f628a386594
-#EXTINF:-1 group-title="Lietuviški" tvg-name="TV6 Lithuania HD" tvg-id="hlsproxy-8256" tvg-logo="http://ottpink.network/picons/tv6.png",TV6 Lithuania HD
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV6 Lithuania HD" tvg-id="hlsproxy-8256" tvg-logo="http://api.itv.live/icon/ch495.png",TV6 Lithuania HD
 http://cloud15.05cdn.wf/ch495/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b26296594
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lnkyvhd.png" tvg-name="LNK HD (LT)" tvg-id="hlsproxy-8161",LNK HD (LT)
 http://cloud15.05cdn.wf/ch493/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6135ef6594
