@@ -9,6 +9,8 @@ http://cloud15.05cdn.wf/ch493/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f61
 http://cloud15.05cdn.wf/ch583/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f66376b6594
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/balticum-auksinis.png" tvg-name="Balticum Auksinis" tvg-id="balticum-auksinis",Balticum Auksinis
 http://cloud15.05cdn.wf/ch589/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69c0e36594
+#EXTINF:-1 tvg-id="smartzone" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch582.png" group-title="Lietuviški", SmartZone HD
+http://cloud15.05cdn.wf/ch582/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f680d7b6594
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/btvhd.png" tvg-name="BTV HD (LT)" tvg-id="btv",BTV HD (LT)
 http://cloud15.05cdn.wf/ch492/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6545776594
 #EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/lrthdtv.png" tvg-name="LRT HD (LT)" tvg-id="lrt-tv",LRT HD (LT)
@@ -33,10 +35,10 @@ http://cloud15.05cdn.wf/ch497/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f65
 http://cloud15.05cdn.wf/ch588/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68bdd06594
 #EXTINF:-1 tvg-id="kidzone" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch591.png" group-title="Lietuviški", KidZone TV
 http://cloud15.05cdn.wf/ch591/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b6fac6594
-#EXTINF:-1 tvg-id="smartzone" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch582.png" group-title="Lietuviški", SmartZone HD
-http://cloud15.05cdn.wf/ch582/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f680d7b6594
 #EXTINF:-1 tvg-id="filmzone-plus-lt" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch581.png" group-title="Lietuviški", FilmZone+ HD
 http://cloud15.05cdn.wf/ch581/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f60744d6594
+#EXTINF:-1 tvg-id="1-balt-lt" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch590.png" group-title="Lietuviški", Pirmais Baltijas
+http://cloud03.02cdn.wf/ch590/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f63cfdd9fec
 
 
 #EXTINF:-1 group-title="Познавательные",Hunt Channel (English)
