@@ -47,6 +47,16 @@ http://cloud03.02cdn.wf/ch587/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f63
 http://cloud03.02cdn.wf/ch591/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b6fac9fec
 
 
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a0000015655c7894893ebb44aaca239138a/orig",History
+http://iptv.prosto.tv:7000/ch87/video.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/viasat-history.png",Viasat History
+http://iptv.prosto.tv:7000/ch86/video.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/viasat-explore.png",Viasat Explore
+http://iptv.prosto.tv:7000/ch85/video.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/765.png",Viasat Nature
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+#EXTINF:-1 group-title="Познавательные",VIP Viasat Nature/History HD
+http://iptv.prosto.tv:7000/ch83/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Wness TV HD
 https://wness104.neterra.tv/wness/wness.stream/playlist.m3u8
 #EXTINF:-1 group-title="Filmų",Советское кино
@@ -187,16 +197,6 @@ http://iptv.prosto.tv:7000/ch90/video.m3u8
 http://iptv.prosto.tv:7000/ch89/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Рибалка
 http://iptv.prosto.tv:7000/ch88/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a0000015655c7894893ebb44aaca239138a/orig",History
-http://iptv.prosto.tv:7000/ch87/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/viasat-history.png",Viasat History
-http://iptv.prosto.tv:7000/ch86/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/viasat-explore.png",Viasat Explore
-http://iptv.prosto.tv:7000/ch85/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/765.png",Viasat Nature
-http://iptv.prosto.tv:7000/ch84/video.m3u8
-#EXTINF:-1 group-title="Познавательные",VIP Viasat Nature/History HD
-http://iptv.prosto.tv:7000/ch83/video.m3u8
 #EXTINF:-1 group-title="Muzika",Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Удмуртия ТВ (Ижевск)
