@@ -47,16 +47,231 @@ http://cloud03.02cdn.wf/ch587/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f63
 http://cloud03.02cdn.wf/ch591/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b6fac9fec
 
 
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a0000015655c7894893ebb44aaca239138a/orig",History
-http://iptv.prosto.tv:7000/ch87/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/viasat-history.png",Viasat History
-http://iptv.prosto.tv:7000/ch86/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/viasat-explore.png",Viasat Explore
-http://iptv.prosto.tv:7000/ch85/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/765.png",Viasat Nature
-http://iptv.prosto.tv:7000/ch84/video.m3u8
-#EXTINF:-1 group-title="Познавательные",VIP Viasat Nature/History HD
-http://iptv.prosto.tv:7000/ch83/video.m3u8
+#EXTM3U url-tvg="http://itv.live/epg/fb7eb19698c1/epgfull.xml.gz" 
+#EXTINF:-1 tvg-id="ch197" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch197.png" group-title="Full каналы", Первый канал HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch197/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6a964f9fec
+#EXTINF:-1 tvg-id="ch800" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch800.png" group-title="Full каналы", Первый Канал +4
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch800/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c0f479fec
+#EXTINF:-1 tvg-id="ch199" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch199.png" group-title="Full каналы", Россия HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch199/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f61a87f9fec
+#EXTINF:-1 tvg-id="ch188" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch188.png" group-title="Full каналы", НТВ HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch188/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ee48e9fec
+#EXTINF:-1 tvg-id="ch196" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch196.png" group-title="Full каналы", THT HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch196/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f616c269fec
+#EXTINF:-1 tvg-id="ch374" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch374.png" group-title="Full каналы", СТС HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch374/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68f5ce9fec
+#EXTINF:-1 tvg-id="ch473" tvg-rec="7" tvg-logo="http://api.itv.live/icon/ch473.png" group-title="Full каналы", Рен ТВ HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch473/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f661c3b9fec
+#EXTINF:-1 tvg-id="ch458" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch458.png" group-title="Full каналы", РЕН ТВ
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch458/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6452bd9fec
+#EXTINF:-1 tvg-id="ch472" tvg-rec="7" tvg-logo="http://api.itv.live/icon/ch472.png" group-title="Full каналы", Пятница HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch472/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6483549fec
+#EXTINF:-1 tvg-id="ch803" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch803.png" group-title="Full каналы", Пятница
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch803/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f673ae09fec
+#EXTINF:-1 tvg-id="ch474" tvg-rec="7" tvg-logo="http://api.itv.live/icon/ch474.png" group-title="Full каналы", Суббота HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch474/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f624d889fec
+#EXTINF:-1 tvg-id="ch804" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch804.png" group-title="Full каналы", Суббота
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch804/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68f02b9fec
+#EXTINF:-1 tvg-id="ch837" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch837.png" group-title="Full каналы", Дождь HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch837/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6974fc9fec
+#EXTINF:-1 tvg-id="ch802" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch802.png" group-title="Full каналы", RTVi
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch802/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6fba3a9fec
+#EXTINF:-1 tvg-id="ch801" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch801.png" group-title="Full каналы", Euronews Россия
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch801/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6cd8cd9fec
+#EXTINF:-1 tvg-id="ch151" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch151.png" group-title="Full каналы", VIP Premiere HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch151/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6e6d459fec
+#EXTINF:-1 tvg-id="ch152" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch152.png" group-title="Full каналы", VIP Comedy HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch152/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ef5b99fec
+#EXTINF:-1 tvg-id="ch157" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch157.png" group-title="Full каналы", VIP Megahit HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch157/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c64c69fec
+#EXTINF:-1 tvg-id="ch476" tvg-rec="7" tvg-logo="http://api.itv.live/icon/ch476.png" group-title="Full каналы", VIP Serial HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch476/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6959369fec
+#EXTINF:-1 tvg-id="ch195" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch195.png" group-title="Full каналы", Кинопремьера HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch195/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f61f9dd9fec
+#EXTINF:-1 tvg-id="ch475" tvg-rec="7" tvg-logo="http://api.itv.live/icon/ch475.png" group-title="Full каналы", Наше крутое HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch475/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6055b09fec
+#EXTINF:-1 tvg-id="ch471" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch471.png" group-title="Full каналы", Страшное HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch471/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ca7899fec
+#EXTINF:-1 tvg-id="ch806" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch806.png" group-title="Full каналы", FOX HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch806/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6bba5f9fec
+#EXTINF:-1 tvg-id="ch361" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch361.png" group-title="Full каналы", FilmZone+ HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch361/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6eae139fec
+#EXTINF:-1 tvg-id="ch370" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch370.png" group-title="Full каналы", Epic Drama HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch370/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6162c89fec
+#EXTINF:-1 tvg-id="ch369" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch369.png" group-title="Full каналы", SmartZone HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch369/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f673aa09fec
+#EXTINF:-1 tvg-id="ch488" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch488.png" group-title="Full каналы", TV3 Film HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch488/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f65bf1c9fec
+#EXTINF:-1 tvg-id="ch362" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch362.png" group-title="Full каналы", FilmBox
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch362/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f688c909fec
+#EXTINF:-1 tvg-id="ch821" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch821.png" group-title="Full каналы", Киномикс
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch821/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f638ee19fec
+#EXTINF:-1 tvg-id="ch811" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch811.png" group-title="Full каналы", Кинокомедия
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch811/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ae3709fec
+#EXTINF:-1 tvg-id="ch810" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch810.png" group-title="Full каналы", Кинохит
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch810/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6072d49fec
+#EXTINF:-1 tvg-id="ch807" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch807.png" group-title="Full каналы", Киносемья
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch807/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f688bd69fec
+#EXTINF:-1 tvg-id="ch812" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch812.png" group-title="Full каналы", Кино ТВ
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch812/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f60588c9fec
+#EXTINF:-1 tvg-id="ch808" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch808.png" group-title="Full каналы", Еврокино
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch808/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ce4db9fec
+#EXTINF:-1 tvg-id="ch809" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch809.png" group-title="Full каналы", Дом Кино
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch809/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6184709fec
+#EXTINF:-1 tvg-id="ch354" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch354.png" group-title="Full каналы", Discovery Channel HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch354/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f695b6e9fec
+#EXTINF:-1 tvg-id="ch154" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch154.png" group-title="Full каналы", Travel Channel HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch154/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6f43ca9fec
+#EXTINF:-1 tvg-id="ch377" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch377.png" group-title="Full каналы", RTG HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch377/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68b82f9fec
+#EXTINF:-1 tvg-id="ch459" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch459.png" group-title="Full каналы", National Geographic HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch459/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6278949fec
+#EXTINF:-1 tvg-id="ch313" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch313.png" group-title="Full каналы", Animal Planet HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch313/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f698e619fec
+#EXTINF:-1 tvg-id="ch814" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch814.png" group-title="Full каналы", Nat Geo Wild HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch814/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6bf59a9fec
+#EXTINF:-1 tvg-id="ch153" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch153.png" group-title="Full каналы", Life HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch153/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f663e9f9fec
+#EXTINF:-1 tvg-id="ch380" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch380.png" group-title="Full каналы", TLC HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch380/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f625c419fec
+#EXTINF:-1 tvg-id="ch822" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch822.png" group-title="Full каналы", Усадьба
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch822/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6931749fec
+#EXTINF:-1 tvg-id="ch198" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch198.png" group-title="Full каналы", Первый Музыкальный HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch198/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f659af69fec
+#EXTINF:-1 tvg-id="ch571" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch571.png" group-title="Full каналы", MTV Live HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch571/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b966a9fec
+#EXTINF:-1 tvg-id="ch820" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch820.png" group-title="Full каналы", MTV 00s
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch820/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f65209d9fec
+#EXTINF:-1 tvg-id="ch573" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch573.png" group-title="Full каналы", MTV Hits
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch573/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6eb1d29fec
+#EXTINF:-1 tvg-id="ch572" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch572.png" group-title="Full каналы", BRIDGE TV
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch572/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6da4089fec
+#EXTINF:-1 tvg-id="ch817" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch817.png" group-title="Full каналы", Mezzo Live HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch817/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6002f59fec
+#EXTINF:-1 tvg-id="ch818" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch818.png" group-title="Full каналы", Музыка Первого
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch818/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f661dfe9fec
+#EXTINF:-1 tvg-id="ch819" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch819.png" group-title="Full каналы", Bridge TV Hits
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch819/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6de3b99fec
+#EXTINF:-1 tvg-id="ch360" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch360.png" group-title="Full каналы", iConcerts
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch360/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6abe979fec
+#EXTINF:-1 tvg-id="ch301" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch301.png" group-title="Full каналы", Eurosport 1 HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch301/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f65257e9fec
+#EXTINF:-1 tvg-id="ch300" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch300.png" group-title="Full каналы", Eurosport 2 HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch300/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6d2cd09fec
+#EXTINF:-1 tvg-id="ch308" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch308.png" group-title="Full каналы", Матч! HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch308/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f608a409fec
+#EXTINF:-1 tvg-id="ch303" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch303.png" group-title="Full каналы", Матч! Арена HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch303/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6718959fec
+#EXTINF:-1 tvg-id="ch324" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch324.png" group-title="Full каналы", Матч! Игра HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch324/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b27569fec
+#EXTINF:-1 tvg-id="ch302" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch302.png" group-title="Full каналы", Матч Премьер HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch302/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f64b2eb9fec
+#EXTINF:-1 tvg-id="ch306" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch306.png" group-title="Full каналы", Матч! Футбол 1 HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch306/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ce8679fec
+#EXTINF:-1 tvg-id="ch305" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch305.png" group-title="Full каналы", Матч! Футбол 2 HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch305/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f651bd39fec
+#EXTINF:-1 tvg-id="ch304" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch304.png" group-title="Full каналы", Матч! Футбол 3 HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch304/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6050a59fec
+#EXTINF:-1 tvg-id="ch575" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch575.png" group-title="Full каналы", Шахтар HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch575/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f64144d9fec
+#EXTINF:-1 tvg-id="ch478" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch478.png" group-title="Full каналы", Футбол 1 UA HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch478/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f697cc29fec
+#EXTINF:-1 tvg-id="ch479" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch479.png" group-title="Full каналы", Футбол 2 UA HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch479/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6a747e9fec
+#EXTINF:-1 tvg-id="ch477" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch477.png" group-title="Full каналы", Футбол 3 UA HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch477/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f62defe9fec
+#EXTINF:-1 tvg-id="ch307" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch307.png" group-title="Full каналы", KHL Prime
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch307/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6d46749fec
+#EXTINF:-1 tvg-id="ch433" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch433.png" group-title="Full каналы", TV3 Sport HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch433/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f65ca7f9fec
+#EXTINF:-1 tvg-id="ch431" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch431.png" group-title="Full каналы", TV3 Sport 2 HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch431/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f62d65d9fec
+#EXTINF:-1 tvg-id="ch321" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch321.png" group-title="Full каналы", Setanta Sports 1HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch321/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6cea499fec
+#EXTINF:-1 tvg-id="ch470" tvg-rec="10" tvg-logo="http://api.itv.live/icon/ch470.png" group-title="Full каналы", Setanta Sports UA
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch470/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f67ef2a9fec
+#EXTINF:-1 tvg-id="ch312" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch312.png" group-title="Full каналы", Game Show
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch312/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6d4c239fec
+#EXTINF:-1 tvg-id="ch815" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch815.png" group-title="Full каналы", Nickelodeon HD
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch815/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f60df6f9fec
+#EXTINF:-1 tvg-id="ch816" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch816.png" group-title="Full каналы", TiJi
+#EXTGRP:1. Full каналы
+http://cloud03.02cdn.wf/ch816/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f61f9e89fec
+
+
 #EXTINF:-1 group-title="Познавательные",Wness TV HD
 https://wness104.neterra.tv/wness/wness.stream/playlist.m3u8
 #EXTINF:-1 group-title="Filmų",Советское кино
@@ -181,22 +396,6 @@ http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
 http://live.gtrk.tv/720/b24-720.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Красная Линия ТВ
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/eko-tv.png",Эко-ТВ
-http://iptv.prosto.tv:7000/ch97/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/fauna.png",Фауна
-http://iptv.prosto.tv:7000/ch95/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/docubox-hd.png",DocuBox HD
-http://iptv.prosto.tv:7000/ch93/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/dacha.png",Дача HD
-http://iptv.prosto.tv:7000/ch92/video.m3u8
-#EXTINF:-1 group-title="Познавательные",Эпоха HD
-http://iptv.prosto.tv:7000/ch91/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/nauka.png",Наука
-http://iptv.prosto.tv:7000/ch90/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/icn/trofey.png",Трофей HD
-http://iptv.prosto.tv:7000/ch89/video.m3u8
-#EXTINF:-1 group-title="Познавательные",Рибалка
-http://iptv.prosto.tv:7000/ch88/video.m3u8
 #EXTINF:-1 group-title="Muzika",Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Удмуртия ТВ (Ижевск)
