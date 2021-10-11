@@ -525,14 +525,6 @@ http://109.233.169.137/hls/b24-hls.m3u8
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
 
 
-#EXTINF:-1 group-title="LT Filmai", Siaubo Baubas
-https://srv1.kinas.dev/Jeepers.Creepers.2001.BDRip.XviD.AC3.Lt.En.Morpheus.mp4?st=JonS5wgNLEM4n1ubA63HOw&e=1633810751
-#EXTINF:-1 group-title="LT Filmai", Siaubo Baubas 2
-https://srv1.kinas.dev/Jeepers.Creepers.2.2003.BDRip.AVC.Lt.En.juliusz.mp4?st=RyJmFEkEzL4ffE1zf3hfDQ&e=1633810698
-#EXTINF:-1 group-title="LT Filmai", Siaubo Baubas 3
-https://srv1.kinas.dev/Jeepers.Creepers.3.2017.mp4?st=K12nlJa6HdmfATQF7RnuTw&e=1633810659
-
-
 #EXTINF:-1 group-title="Kamera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Panevezys.svg/1200px-Flag_of_Panevezys.svg.png", Panevėžys Senvagė
 https://edge01.balticlivecam.com/blc/Romantic/tracks-v1/mono.m3u8?token=e4454368cab35963c3c5c5f6ff74d6bc%3A1585495199134
 #EXTINF:-1 group-title="Kamera" tvg-logo="http://www.elnynas.lt/wp-content/uploads/2014/11/elnynas1.png",Elnynas
