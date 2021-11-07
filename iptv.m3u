@@ -1,50 +1,48 @@
 #EXTM3U url-tvg="http://itv.live/epg/fb7eb19698c1/epgfull.xml.gz" 
 #EXTINF:-1 tvg-id="ch498" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch498.png" group-title="Lietuviški", TV1 HD
-http://cloud03.02cdn.wf/ch498/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f623d9d9fec
+http://cloud04.02cdn.wf/ch498/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f623d9db1df
 #EXTINF:-1 tvg-id="ch490" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch490.png" group-title="Lietuviški", TV3 HD
-http://cloud03.02cdn.wf/ch490/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f628a389fec
+http://cloud04.02cdn.wf/ch490/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f628a38b1df
 #EXTINF:-1 tvg-id="ch495" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch495.png" group-title="Lietuviški", TV6 HD
-http://cloud03.02cdn.wf/ch495/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b26299fec
+http://cloud04.02cdn.wf/ch495/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b2629b1df
 #EXTINF:-1 tvg-id="ch497" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch497.png" group-title="Lietuviški", TV8 HD
-http://cloud03.02cdn.wf/ch497/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f655fcf9fec
+http://cloud04.02cdn.wf/ch497/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f655fcfb1df
 #EXTINF:-1 tvg-id="ch496" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch496.png" group-title="Lietuviški", Info TV HD
-http://cloud03.02cdn.wf/ch496/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c5ed09fec
+http://cloud04.02cdn.wf/ch496/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c5ed0b1df
 #EXTINF:-1 tvg-id="ch493" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch493.png" group-title="Lietuviški", LNK HD
-http://cloud03.02cdn.wf/ch493/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6135ef9fec
+http://cloud04.02cdn.wf/ch493/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6135efb1df
 #EXTINF:-1 tvg-id="ch586" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch586.png" group-title="Lietuviški", LRT Plus HD
-http://cloud03.02cdn.wf/ch586/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6becae9fec
+http://cloud04.02cdn.wf/ch586/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6becaeb1df
 #EXTINF:-1 tvg-id="ch499" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch499.png" group-title="Lietuviški", Lietuvos Rytas HD
-http://cloud03.02cdn.wf/ch499/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ef4569fec
+http://cloud04.02cdn.wf/ch499/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ef456b1df
 #EXTINF:-1 tvg-id="ch492" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch492.png" group-title="Lietuviški", BTV HD
-http://cloud03.02cdn.wf/ch492/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6545779fec
+http://cloud04.02cdn.wf/ch492/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f654577b1df
 #EXTINF:-1 tvg-id="ch491" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch491.png" group-title="Lietuviški", LRT HD
-http://cloud03.02cdn.wf/ch491/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6089e29fec
+http://cloud04.02cdn.wf/ch491/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6089e2b1df
 #EXTINF:-1 tvg-id="ch583" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch583.png" group-title="Lietuviški", TV3 Film HD
-http://cloud03.02cdn.wf/ch583/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f66376b9fec
+http://cloud04.02cdn.wf/ch583/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f66376bb1df
 #EXTINF:-1 tvg-id="ch582" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch582.png" group-title="Lietuviški", SmartZone HD
-http://cloud03.02cdn.wf/ch582/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f680d7b9fec
+http://cloud04.02cdn.wf/ch582/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f680d7bb1df
 #EXTINF:-1 tvg-id="ch581" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch581.png" group-title="Lietuviški", FilmZone+ HD
-http://cloud03.02cdn.wf/ch581/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f60744d9fec
+http://cloud04.02cdn.wf/ch581/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f60744db1df
 #EXTINF:-1 tvg-id="ch580" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch580.png" group-title="Lietuviški", Epic Drama HD
-http://cloud03.02cdn.wf/ch580/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69683c9fec
+http://cloud04.02cdn.wf/ch580/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69683cb1df
+#EXTINF:-1 tvg-id="ch825" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch825.png" group-title="Lietuviški", Delfi TV HD
+http://cloud04.02cdn.wf/ch825/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6a59d8b1df
+#EXTINF:-1 tvg-id="ch824" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch824.png" group-title="Lietuviški", TV3 Sport Open HD
+http://cloud04.02cdn.wf/ch824/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69ea87b1df
 #EXTINF:-1 tvg-id="ch584" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch584.png" group-title="Lietuviški", TV3 Sport HD
-http://cloud03.02cdn.wf/ch584/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6dd7579fec
+http://cloud04.02cdn.wf/ch584/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6dd757b1df
 #EXTINF:-1 tvg-id="ch585" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch585.png" group-title="Lietuviški", TV3 Sport 2 HD
-http://cloud03.02cdn.wf/ch585/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c20ca9fec
+http://cloud04.02cdn.wf/ch585/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c20cab1df
 #EXTINF:-1 tvg-id="ch494" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch494.png" group-title="Lietuviški", Sport 1 HD
-http://cloud03.02cdn.wf/ch494/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6fe4159fec
-#EXTINF:-1 tvg-id="ch562" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch562.png" group-title="Lietuviški", Arena HD
-http://cloud03.02cdn.wf/ch562/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6bba729fec
+http://cloud04.02cdn.wf/ch494/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6fe415b1df
 #EXTINF:-1 tvg-id="ch590" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch590.png" group-title="Lietuviški", Pirmais Baltijas
-http://cloud03.02cdn.wf/ch590/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f63cfdd9fec
+http://cloud04.02cdn.wf/ch590/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f63cfddb1df
 #EXTINF:-1 tvg-id="ch589" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch589.png" group-title="Lietuviški", Balticum Auksinis
-http://cloud03.02cdn.wf/ch589/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69c0e39fec
+http://cloud04.02cdn.wf/ch589/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69c0e3b1df
 #EXTINF:-1 tvg-id="ch588" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch588.png" group-title="Lietuviški", 2TV
-http://cloud03.02cdn.wf/ch588/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68bdd09fec
-#EXTINF:-1 tvg-id="ch587" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch587.png" group-title="Lietuviški", Eurosport 1
-http://cloud03.02cdn.wf/ch587/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6330869fec
-#EXTINF:-1 tvg-id="ch591" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch591.png" group-title="Lietuviški", KidZone TV
-http://cloud03.02cdn.wf/ch591/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b6fac9fec
+http://cloud04.02cdn.wf/ch588/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68bdd0b1df
 
 #EXTINF:-1 group-title="Filmų",ГАЛ TV
 http://clients.apsny.camera/tv_gal_tv_hd_online/index.m3u8
