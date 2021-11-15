@@ -3,6 +3,8 @@
 http://cloud04.02cdn.wf/ch498/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f623d9db1df
 #EXTINF:-1 tvg-id="ch490" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch490.png" group-title="Lietuviški", TV3 HD
 http://cloud04.02cdn.wf/ch490/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f628a38b1df
+#EXTINF:-1 tvg-id="ch490" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch490.png" group-title="Lietuviški", TV3 HD 1
+http://cloud03.02cdn.wf/ch490/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f628a389fec
 #EXTINF:-1 tvg-id="ch495" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch495.png" group-title="Lietuviški", TV6 HD
 http://cloud04.02cdn.wf/ch495/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b2629b1df
 #EXTINF:-1 tvg-id="ch497" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch497.png" group-title="Lietuviški", TV8 HD
