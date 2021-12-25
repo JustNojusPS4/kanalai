@@ -46,8 +46,11 @@ http://cloud04.02cdn.wf/ch589/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69
 #EXTINF:-1 tvg-id="ch588" tvg-rec="3" tvg-logo="http://api.itv.live/icon/ch588.png" group-title="Lietuviški", 2TV
 http://cloud04.02cdn.wf/ch588/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68bdd0b1df
 
-#EXTINF:-1 group-title="Filmų",ГАЛ TV
-http://clients.apsny.camera/tv_gal_tv_hd_online/index.m3u8
+
+#EXTINF:-1 group-title="Filmų",FOX HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title="Filmų",Sony Sci-Fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:-1 group-title="Filmų" tvg-id="vip-premiere",VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:-1 group-title="Filmų" tvg-id="vip-megahit",VIP Megahit
@@ -64,6 +67,14 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 
 
+#EXTINF:-1 group-title="Pažintiniai" tvg-logo="https://dvb.by/sources/logos/1026.png",Nat Geo Wild FHD
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-logo="https://dvb.by/sources/logos/1261.png",Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-logo="https://dvb.by/sources/logos/1014.png",Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1 group-title="Pažintiniai" tvg-logo="https://dvb.by/sources/logos/3236.png",Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1,WORLD HD
 #EXTGRP:Pažintiniai
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
