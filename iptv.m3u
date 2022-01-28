@@ -47,29 +47,29 @@ http://cloud04.02cdn.wf/ch589/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69
 http://cloud04.02cdn.wf/ch588/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68bdd0b1df
 
 
-#EXTINF:-1 group-title="Filmų" tvg-logo="https://dvb.by/sources/logos/3645.png",Amedia Hit HD
+#EXTINF:-1 group-title="Filmų" tvg-id="ch405" tvg-logo="https://dvb.by/sources/logos/3645.png",Amedia Hit HD
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/720p.m3u8
-#EXTINF:-1 group-title="Filmų" tvg-logo="https://dvb.by/sources/logos/3590.png",Amedia 2 HD
+#EXTINF:-1 group-title="Filmų" tvg-id="ch555" tvg-logo="https://dvb.by/sources/logos/3590.png",Amedia 2 HD
 https://okkotv-live.cdnvideo.ru/channel/A2_HD/720p.m3u8
-#EXTINF:-1 group-title="Filmų" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1 HD
+#EXTINF:-1 group-title="Filmų" tvg-id="" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1 HD
 https://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8
-#EXTINF:-1 group-title="Filmų",FOX HD
+#EXTINF:-1 group-title="Filmų" tvg-id="ch174",FOX HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
-#EXTINF:-1 group-title="Filmų",Sony Sci-Fi
+#EXTINF:-1 group-title="Filmų" tvg-id="",Sony Sci-Fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
-#EXTINF:-1 group-title="Filmų" tvg-id="vip-premiere",VIP Premiere
+#EXTINF:-1 group-title="Filmų" tvg-id="ch020" tvg-id="vip-premiere",VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 group-title="Filmų" tvg-id="vip-megahit",VIP Megahit
+#EXTINF:-1 group-title="Filmų" tvg-id="ch019" tvg-id="vip-megahit",VIP Megahit
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 group-title="Filmų" tvg-id="vip-comedy",VIP Comedy
+#EXTINF:-1 group-title="Filmų" tvg-id="" tvg-id="ch021",VIP Comedy
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1 group-title="Filmų" tvg-id="vip-serial",VIP Serial
+#EXTINF:-1 group-title="Filmų" tvg-id="" tvg-id="vip-serial",VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1 group-title="Filmų" tvg-id="tv1000",TV1000 HD
+#EXTINF:-1 group-title="Filmų" tvg-id="" tvg-id="tv1000",TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1 group-title="Filmų" tvg-id="tv1000-action",TV1000 Action HD
+#EXTINF:-1 group-title="Filmų" tvg-id="" tvg-id="tv1000-action",TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 group-title="Filmų" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино HD
+#EXTINF:-1 group-title="Filmų" tvg-id="" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 
 
@@ -77,7 +77,7 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
 #EXTINF:-1 group-title="Pažintiniai" tvg-logo="https://dvb.by/sources/logos/1261.png",Viasat Nature HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1 group-title="Pažintiniai" tvg-logo="https://dvb.by/sources/logos/1014.png",Viasat Explore HD
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="ch048" tvg-logo="https://dvb.by/sources/logos/1014.png",Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:-1 group-title="Pažintiniai" tvg-logo="https://dvb.by/sources/logos/3236.png",Viasat History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
