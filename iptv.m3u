@@ -627,38 +627,6 @@ http://stream.novouralsk-news.ru/echotv24/live.m3u8
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
 
 
-#EXTINF:-1 group-title="Литва",LRT HD
-http://213.226.137.133:81/tl/l1/index.m3u8
-#EXTINF:-1 group-title="Литва",LRT Plius HD
-http://213.226.137.133:81/tl/l2/index.m3u8
-#EXTINF:-1 group-title="Литва",LNK
-http://213.226.137.133:81/tl/l3/index.m3u8
-#EXTINF:-1 group-title="Литва",TV6
-http://213.226.137.133:81/tl/l4/index.m3u8
-#EXTINF:-1 group-title="Литва",BTV
-http://213.226.137.133:81/tl/l5/index.m3u8
-#EXTINF:-1 group-title="Литва",TV1
-http://213.226.137.133:81/tl/l9/index.m3u8
-#EXTINF:-1 group-title="Литва",TV1 HD
-http://213.226.137.133:81/tl/l712/index.m3u8
-#EXTINF:-1 group-title="Литва",TV2
-http://213.226.137.133:81/tl/l8/index.m3u8
-#EXTINF:-1 group-title="Литва",TV3
-http://213.226.137.133:81/tl/l6/index.m3u8
-#EXTINF:-1 group-title="Литва",TV8
-http://213.226.137.133:81/tl/l10/index.m3u8
-#EXTINF:-1 group-title="Литва",TV8 HD
-http://213.226.137.133:81/tl/l714/index.m3u8
-#EXTINF:-1 group-title="Литва",Info TV
-http://213.226.137.133:81/tl/l7/index.m3u8
-#EXTINF:-1 group-title="Литва",Info HD
-http://213.226.137.133:81/tl/l713/index.m3u8
-#EXTINF:-1 group-title="Литва",Delfi HD
-http://213.226.137.133:81/tl/l715/index.m3u8
-#EXTINF:-1 group-title="Литва",Lietuvos Rytas
-http://213.226.137.133:81/tl/l35/index.m3u8
-
-
 #EXTINF:-1 group-title="Muzika",Hit music
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1,musikcolabfm
