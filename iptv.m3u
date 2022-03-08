@@ -53,31 +53,15 @@ http://cloud03.02cdn.wf/ch589/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69
 http://cloud04.02cdn.wf/ch588/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68bdd0b1df
 
 
-#EXTINF:-1 group-title="Pažintiniai" tvg-logo="https://dvb.by/sources/logos/1026.png",Nat Geo Wild FHD
-https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
-#EXTINF:-1 group-title="Pažintiniai" tvg-logo="https://dvb.by/sources/logos/1261.png",Viasat Nature HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1 group-title="Pažintiniai" tvg-id="ch048" tvg-logo="https://dvb.by/sources/logos/1014.png",Viasat Explore HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1 group-title="Pažintiniai" tvg-logo="https://dvb.by/sources/logos/3236.png",Viasat History HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1,WORLD HD
 #EXTGRP:Pažintiniai
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1,Travel Guid-TV
-#EXTGRP:Pažintiniai
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1,Трофей HD
-#EXTGRP:Pažintiniai
-http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_w1068339373_b878000_slukr.m3u8
 #EXTINF:-1,Sochi Live HD
 #EXTGRP:Pažintiniai
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1,Министерство идей
 #EXTGRP:Pažintiniai
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Pažintiniai",41 канал (Воронеж)
-http://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8
 #EXTINF:-1 group-title="Pažintiniai",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Pažintiniai",Министерство Идей
@@ -86,12 +70,8 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1 group-title="Pažintiniai",Салям ТВ
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 group-title="Pažintiniai",Моя Планета
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 
 
-#EXTINF:-1 group-title="Pramoginiai",РЕН ТВ
-http://213.226.137.133:81/tl/l47/mpegts
 #EXTINF:-1 group-title="Pramoginiai",СТВ Беларусь
 http://212.98.171.116/HLS/ctvby/playlist.m3u8?seg-user-4pda-denms-ru-v1-a1
 #EXTINF:-1 group-title="Pramoginiai",Первый Псковский
@@ -100,18 +80,10 @@ http://194.190.78.91/pskov/rewind-10800.m3u8
 http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
 #EXTINF:-1 group-title="Pramoginiai",СТВ (Беларусь)
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Телестанция МИР (Новосибирск)
-http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
-#EXTINF:-1 group-title="Pramoginiai",1-й Республиканский
-http://dprtv.phoenix-dnr.ru/first-republic-tv
 #EXTINF:-1 group-title="Pramoginiai",8 Канал
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 #EXTINF:-1 group-title="Pramoginiai",11 канал Пенза
 http://85.234.33.64/stream/c11.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Сургут 24
-http://video1.in-news.ru/c24/index.m3u8
-#EXTINF:-1 group-title="Pramoginiai",360 (Сургут)
-http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Лотос 24
 http://streaming.astrakhan.ru/live/vgtrk/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Астрахнь
@@ -140,8 +112,6 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Мордовия 24
 http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Моя Удмуртия
-http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Pramoginiai",МТВ Волгоград
 http://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Измаил ТВ
@@ -170,13 +140,6 @@ http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 group-title="Pramoginiai",TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1,100% News
-#EXTGRP:Pramoginiai
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1,RLS-TV
-#EXTGRP:Pramoginiai
-#EXTVLCOPT:http-user-agent=smartlabs
-http://hls.goodgame.ru/hls/6147.m3u8
 #EXTINF:0,Настоящее время
 #EXTGRP:Pramoginiai
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
@@ -223,8 +186,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Москва 24
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Pramoginiai",МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Надежда
@@ -235,32 +196,14 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Ратник HD
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Россия 1
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:rhd.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Россия К
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Башкортостан 24
 http://109.233.169.137/hls/b24-hls.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Россия РТР
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Pramoginiai",РТР Планета
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Первый канал "Евразия"
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Первый Канал ОНТ
-http://persik.by/stream/8460/291680/10258.m3u8
 #EXTINF:-1 group-title="Pramoginiai",С1 (Сургут) +2
 https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Сургут 24 +2
-http://video1.in-news.ru/c24/index.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Удмуртия ТВ (Ижевск)
-http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Pramoginiai",Че!/Север (Сургут) +2
-http://tvsever.ru:8080/hls/ach2.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Эхо ТВ
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Pramoginiai",Эхо ТВ 24 (Новоуральск) +2
@@ -269,8 +212,6 @@ http://stream.novouralsk-news.ru/echotv24/live.m3u8
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
 
 
-#EXTINF:-1 group-title="Muzika",Hit music
-http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1,musikcolabfm
 #EXTGRP:Muzika
 #EXTVLCOPT:http-user-agent=smartlabs
@@ -284,9 +225,6 @@ http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 #EXTINF:0,Страна FM HD
 #EXTGRP:Muzika
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0,М2
-#EXTGRP:Muzika
-http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:0,Kronehit HD
 #EXTGRP:Muzika
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -324,14 +262,10 @@ http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Muzika",РORTAL FOXMIX TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-#EXTINF:-1 group-title="Muzika",MTV HD Enland
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
 #EXTINF:-1 group-title="Muzika",MTV Biggest Pop HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 group-title="Muzika",MTV Block Party HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 group-title="Muzika",MTV Mix
-http://81.30.182.82:18092/hls/live.m3u8
 #EXTINF:-1 group-title="Muzika",V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Muzika",XITE HD
