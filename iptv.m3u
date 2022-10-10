@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://itv.tools/epg/fb7eb19698c1/epggz.xml.gz" 
-#EXTM3U url-tvg="http://itv.tools/epg/fb7eb19698c1/epggz.xml.gz" 
+#EXTM3U url-tvg="http://itv.tools/epg/fb7eb19698c1/epggz.xml.gz"
 #EXTINF:-1 tvg-id="ch498" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch498.png" group-title="Lietuviški", TV1 HD
 #EXTGRP:1. Lietuviški
 http://cloud03.02cdn.wf/ch498/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f623d9d9fec
