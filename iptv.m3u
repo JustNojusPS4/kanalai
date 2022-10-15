@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://itv.tools/epg/fb7eb19698c1/epggz.xml.gz"
+#EXTM3U url-tvg="http://epg.tvfor.pro/epgtv.xml"
 #EXTINF:-1 tvg-id="ch498" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch498.png" group-title="Lietuviški", TV1 HD
 #EXTGRP:1. Lietuviški
 http://cloud03.02cdn.wf/ch498/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f623d9d9fec
@@ -86,6 +86,945 @@ http://cloud03.02cdn.wf/ch863/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6f
 #EXTINF:-1 tvg-id="ch864" tvg-rec="1" tvg-logo="http://api.01cdn.wf/icon/ch864.png" group-title="Lietuviški", Seimas Tiesiogiai
 #EXTGRP:1. Lietuviški
 http://cloud03.02cdn.wf/ch864/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6a5e499fec
+
+
+#EXTINF:-1 tvg-id="1819" tvg-name="TV3 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv-3-latvija-lv.png" group-title="Lietuviški 1" catchup="default" catchup-source="http://messi.tvfor.pro/TV3LTHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",TV3 [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/jNFMM3oqcO/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1818" tvg-name="TV1 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv1-lt.png" group-title="Lietuviški 1" catchup-days="0",TV1 [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/Hx77bIqPBi/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1824" tvg-name="TV3 [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv-3-latvija-lv.png" group-title="Lietuviški 1" catchup-days="0",TV3 [LV]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/nVOMVOFs5a/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1810" tvg-name="LTV 1 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/latvia1.png" group-title="Lietuviški 1" catchup-days="0",LTV 1 [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/ELiablECeS/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1826" tvg-name="TV3 Plus [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv3plus.png" group-title="Lietuviški 1" catchup-days="0",TV3 Plus [LV]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/BGwCLhNnF8/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1821" tvg-name="TV6 HD [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv6-latvija-lv.png" group-title="Lietuviški 1" catchup="default" catchup-source="http://messi.tvfor.pro/TV6LTHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",TV6 HD [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/HKarJoMkIX/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1811" tvg-name="LTV 7 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/latvia7.png" group-title="Lietuviški 1" catchup-days="0",LTV 7 [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/uStaNDEACE/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1827" tvg-name="TV6 [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv6-latvija-lv.png" group-title="Lietuviški 1" catchup-days="0",TV6 [LV]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/rthRoEuliN/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1822" tvg-name="TV8 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv8-lietuva-lt.png" group-title="Lietuviški 1" catchup="default" catchup-source="http://messi.tvfor.pro/TV8HDLT/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",TV8 [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/bppvH8HMfP/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1795" tvg-name="2TV [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/2tv.png" group-title="Lietuviški 1" catchup-days="0",2TV [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/DOQL1e7258/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1828" tvg-name="TV8 [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv8-lietuva-lt.png" group-title="Lietuviški 1" catchup-days="0",TV8 [LV]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/tuREaRedIA/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1815" tvg-name="SmartZone [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/smart_zone.png" group-title="Lietuviški 1" catchup-days="0",SmartZone [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/yjN0v6KXeU/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1816" tvg-name="Sport 1 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/sport1.png" group-title="Lietuviški 1" catchup-days="0",Sport 1 [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/4hwjAv7tFR/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1823" tvg-name="LNK [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/lnk_lt.png" group-title="Lietuviški 1" catchup="default" catchup-source="http://messi.tvfor.pro/lnkHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",LNK [LV]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/ggE4kffMea/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1809" tvg-name="LRT Televizija HD [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/LRT_televizija_hd.png" group-title="Lietuviški 1" catchup="default" catchup-source="http://messi.tvfor.pro/LRTTelevizijaHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",LRT Televizija HD [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/VXXlQ0RW9N/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1372" tvg-name="Film Zone HD [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/filmzone.png" group-title="Lietuviški 1" catchup="default" catchup-source="http://messi.tvfor.pro/FilmZoneHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Film Zone HD [LV]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/ThiNgiMaCk/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1807" tvg-name="LRT Plius [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/LRT_plus.png" group-title="Lietuviški 1" catchup-days="0",LRT Plius [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/FbqTl52yNB/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1799" tvg-name="DELFI TV [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/delfi.png" group-title="Lietuviški 1" catchup-days="0",DELFI TV [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/5s4Cki1mPu/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1797" tvg-name="Balticum TV [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/balticum.png" group-title="Lietuviški 1" catchup="default" catchup-source="http://messi.tvfor.pro/Baltikumtv/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Balticum TV [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/HpDoabu49b/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1801" tvg-name="Duo 6 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/duo_6.png" group-title="Lietuviški 1" catchup-days="0",Duo 6 [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/Vp4Qibexvo/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1373" tvg-name="Film Zone+ HD [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/filmzone_plus.png" group-title="Lietuviški 1" catchup="default" catchup-source="http://messi.tvfor.pro/FilmZonePlusHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Film Zone+ HD [LV]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/ITICARYOKE/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1814" tvg-name="Siauliu TV [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/siauliu.png" group-title="Lietuviški 1" catchup-days="0",Siauliu TV [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/7fJ67QMe4g/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1802" tvg-name="Duo 7 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/duo_7.png" group-title="Lietuviški 1" catchup-days="0",Duo 7 [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/xNnSB5l8I4/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1800" tvg-name="Duo 3 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/duo_3.png" group-title="Lietuviški 1" catchup-days="0",Duo 3 [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/xTp2XDNfvs/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1798" tvg-name="BTV [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/baltijos-tv-lt.png" group-title="Lietuviški 1" catchup-days="0",BTV [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/mq8WSfNvep/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1812" tvg-name="Pingviniukas [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/pingvinukas.png" group-title="Lietuviški 1" catchup-days="0",Pingviniukas [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/QfSoPKo1t1/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1808" tvg-name="LRT Plius HD [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/LRT_plus_hd.png" group-title="Lietuviški 1" catchup-days="0",LRT Plius HD [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/BLaj2CLk7V/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1796" tvg-name="Balticum Platinum HD [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/balticum_p.png" group-title="Lietuviški 1" catchup="default" catchup-source="http://messi.tvfor.pro/BALTICUMPLATINUMHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Balticum Platinum HD [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/beki6Nrovx/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1803" tvg-name="INFO TV [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/infotv.png" group-title="Lietuviški 1" catchup-days="0",INFO TV [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/4veSnRRUPk/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1804" tvg-name="Lietuvos Rytas [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/lietuvostv.png" group-title="Lietuviški 1" catchup="default" catchup-source="http://messi.tvfor.pro/LIETUVOSRYTASTVHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Lietuvos Rytas [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/X7OLRNpmhQ/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1813" tvg-name="Pukas TV [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/pukas_tv.png" group-title="Lietuviški 1" catchup-days="0",Pukas TV [LT]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/symVADgzLi/164wcg3e8558c5py1x5mmtim
+
+
+#EXTINF:-1 tvg-id="212" tvg-name="ViP Premiere" tvg-logo="http://tvfor.pro/img/images/Chanels/VIP_Premiere.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/ViPPremiereHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",ViP Premiere
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/TV1000PremiumHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="211" tvg-name="ViP Comedy" tvg-logo="http://tvfor.pro/img/images/Chanels/VIP_Comedy.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/VIPComedy/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",ViP Comedy
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/TV1000ComedyHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1466" tvg-name="ViP Comedy CEE" tvg-logo="http://tvfor.pro/img/images/Chanels/VIP_Comedy.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/ViPComedyHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",ViP Comedy CEE
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/LOUNkyStOl/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="208" tvg-name="ViP Megahit" tvg-logo="http://tvfor.pro/img/images/Chanels/VIP_Megahit.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/ViPMegahitHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",ViP Megahit
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/TV1000MegahitHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1467" tvg-name="ViP Megahit CEE" tvg-logo="http://tvfor.pro/img/images/Chanels/VIP_Megahit.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/VIP_Megahit_CEE/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",ViP Megahit CEE
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/lOUSAlfHAn/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1206" tvg-name="VIP Serial" tvg-logo="http://tvfor.pro/img/images/Chanels/VIP_Serial.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/VIPSerial/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",VIP Serial
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/Z3GNAsx6Gl/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="87" tvg-name="Кинопремьера HD" tvg-logo="http://tvfor.pro/img/images/Chanels/87.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/KinopremieraHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Кинопремьера HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/HDKino/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="85" tvg-name="Киносемья" tvg-logo="http://tvfor.pro/img/images/Chanels/85.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Kinosemya/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Киносемья
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/NTVPlusPremiera/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1146" tvg-name="Киносемья HD" tvg-logo="http://tvfor.pro/img/images/Chanels/85.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Kinosemya_HD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Киносемья HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/KinosemyaHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="33" tvg-name="Кинохит" tvg-logo="http://tvfor.pro/img/images/Chanels/33(1).png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Kinohit/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Кинохит
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/bIHGRn9uLC/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1150" tvg-name="Кинохит HD" tvg-logo="http://tvfor.pro/img/images/Chanels/33(1).png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Kinohit_HD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Кинохит HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/KinohitHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1119" tvg-name="Киносвидание" tvg-logo="http://tvfor.pro/img/images/Chanels/34.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/KinoSvidanie/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Киносвидание
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/KinoSvidanie/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1120" tvg-name="Киносвидание HD" tvg-logo="http://tvfor.pro/img/images/Chanels/34.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/KinosvidanieHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Киносвидание HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/9R3r7csvRf/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="32" tvg-name="Киномикс" tvg-logo="http://tvfor.pro/img/images/Chanels/32.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Kinomix/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Киномикс
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/KinoPlus/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1138" tvg-name="Киномикс HD" tvg-logo="http://tvfor.pro/img/images/Chanels/32.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/KinomiksHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Киномикс HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/KinomixHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="29" tvg-name="Кинокомедия" tvg-logo="http://tvfor.pro/img/images/Chanels/29.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/KomediaTV/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Кинокомедия
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/KomediaTV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1240" tvg-name="Кинокомедия HD" tvg-logo="http://tvfor.pro/img/images/Chanels/29.png" group-title="Фильмовые" catchup-days="0",Кинокомедия HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/wcXeXXCbMq/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="459" tvg-name="Премиальное" tvg-logo="http://tvfor.pro/img/images/Chanels/premialnoe.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/KinoPremiumHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Премиальное
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/KinopremiumHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1318" tvg-name="Premiere HD 1" tvg-logo="http://tvfor.pro/img/images/Chanels/logo1s.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/STICIPLiCH/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",Premiere HD 1
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/STICIPLiCH/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1320" tvg-name="Premiere HD 2" tvg-logo="http://tvfor.pro/img/images/Chanels/logo2s.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/AnghtenSid/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",Premiere HD 2
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/AnghtenSid/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1321" tvg-name="Premiere HD 3" tvg-logo="http://tvfor.pro/img/images/Chanels/logo3s.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/erTonalter/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",Premiere HD 3
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/erTonalter/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1322" tvg-name="Premiere HD 4" tvg-logo="http://tvfor.pro/img/images/Chanels/logo4s.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/loPALumlOf/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",Premiere HD 4
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/loPALumlOf/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="863" tvg-name="Paramount Channel" tvg-logo="http://tvfor.pro/img/images/Chanels/paramount_channel_ru.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/ParamountchannelHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Paramount Channel
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/ParamountchannelHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="526" tvg-name="Paramount Channel HD" tvg-logo="http://tvfor.pro/img/images/Chanels/paramount_channel_ru.png" group-title="Фильмовые" catchup-days="0",Paramount Channel HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/ParamountHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1331" tvg-name="Камеди HD" tvg-logo="http://tvfor.pro/img/images/Chanels/kamedi.png" group-title="Фильмовые" catchup-days="0",Камеди HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/AStoteSPOn/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="458" tvg-name="Комедийное" tvg-logo="http://tvfor.pro/img/images/Chanels/2-thumb.jpg" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/KomedijnoeHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Комедийное
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/Kinopokaz2HD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="889" tvg-name="Кинопоказ" tvg-logo="http://tvfor.pro/img/images/Chanels/kino_pokaz.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Kinopokazsd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Кинопоказ
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/Kinopokazsd/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1332" tvg-name="Кинопоказ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/kino_pokaz.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/KinopokazHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Кинопоказ HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/DumnESIOgr/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1214" tvg-name="Романтичное" tvg-logo="http://tvfor.pro/img/images/Chanels/romantichnoe-ru.png" group-title="Фильмовые" catchup-days="0",Романтичное
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/zMznVLIwqr/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1330" tvg-name="Хит HD" tvg-logo="http://tvfor.pro/img/images/Chanels/xit.png" group-title="Фильмовые" catchup-days="0",Хит HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/EGineYWite/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1329" tvg-name="Про Любовь HD" tvg-logo="http://tvfor.pro/img/images/Chanels/pro_lubov.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/ProLubovHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Про Любовь HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/tiStIANESC/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1033" tvg-name="Кино ТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/kino_tv_ru.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/KinoTV/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Кино ТВ
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/KinoTV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="628" tvg-name="Кино ТВ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/kino_tv_ru.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/KinoHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Кино ТВ HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/KinoTVHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1520" tvg-name="KinoJam 1" tvg-logo="http://tvfor.pro/img/images/Chanels/kinojam-1-ru.png" group-title="Фильмовые" catchup-days="0",KinoJam 1
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/hUSanIspIT/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1521" tvg-name="KinoJam 2" tvg-logo="http://tvfor.pro/img/images/Chanels/kinojam-2-ru.png" group-title="Фильмовые" catchup-days="0",KinoJam 2
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/LOMbLESCHI/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="457" tvg-name="Шокирующее" tvg-logo="http://tvfor.pro/img/images/Chanels/16.jpg" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/ShokirujucheHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Шокирующее
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/Kinopokaz1HD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1213" tvg-name="TV3 Film HD [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv3film(1).png" group-title="Lietuviški 1" catchup="default" catchup-source="http://messi.tvfor.pro/TV1000PremiumHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",TV3 Film HD [LV]
+#EXTGRP:Lietuviški 1
+http://messi.tvfor.pro/FkshGftSRl/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="153" tvg-name="TV1000" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_w.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/TV1000/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",TV1000
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/TV1000East/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1113" tvg-name="TV1000 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_w.png" group-title="Фильмовые" catchup-days="0",TV1000 HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/TV1000HD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2517" tvg-name="TV1000 HD CEE" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_w.png" group-title="Фильмовые" catchup-days="0",TV1000 HD CEE
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/gmfKzZKoK8o0/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="4" tvg-name="TV1000 Action" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_x.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/TV1000Action/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",TV1000 Action
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/TV1000ActionEast/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1112" tvg-name="TV1000 Action HD" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_x.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/tv1000actionhd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",TV1000 Action HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/2gTpcA8hiV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1453" tvg-name="TV1000 Action CEE HD" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_x.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/TV1000_Action_HD_CEE/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",TV1000 Action CEE HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/lEaSPOloiN/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1118" tvg-name="TV1000 World Kino" tvg-logo="http://tvfor.pro/img/images/Chanels/1020.gif" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/TV1000WorldKino/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",TV1000 World Kino
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/jrD2gZBF9p/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="7" tvg-name="TV1000 Русское кино" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_y.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/TV1000RusKino/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",TV1000 Русское кино
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/TV1000RusskoeKino/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1114" tvg-name="TV1000 Русское кино HD" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_y.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/tv1000rukinohd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",TV1000 Русское кино HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/TV1000RussianHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="548" tvg-name="Мужское кино" tvg-logo="http://tvfor.pro/img/images/Chanels/548.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Muzskoekino/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Мужское кино
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/MujskoeKino/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1070" tvg-name="Мужское кино HD" tvg-logo="http://tvfor.pro/img/images/Chanels/548.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/MuzskoekinoHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Мужское кино HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/MuzhskoeKinoHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1328" tvg-name="Наше Мужское HD" tvg-logo="http://tvfor.pro/img/images/Chanels/nashe_muzhkoe.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/NasheMuzskoeHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Наше Мужское HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/equitEDThy/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="380" tvg-name="Остросюжетное HD" tvg-logo="http://tvfor.pro/img/images/Chanels/ostrosuzhetnoe.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/OstrosuzetnoeHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Остросюжетное HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/ostHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1327" tvg-name="Блокбастер HD" tvg-logo="http://tvfor.pro/img/images/Chanels/blok_baster.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/BlokbasterHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Блокбастер HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/uLtArDiNkM/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1302" tvg-name="Киноужас HD" tvg-logo="http://tvfor.pro/img/images/Chanels/kinouzas.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/KinouzasHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Киноужас HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/toRsIsiOnf/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1473" tvg-name="Trash HD" tvg-logo="http://tvfor.pro/img/images/Chanels/trash.png" group-title="Фильмовые" catchup-days="0",Trash HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/FiXTRUBARB/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1154" tvg-name="Cinema UHD" tvg-logo="http://tvfor.pro/img/images/Chanels/cinema_uhd.png" group-title="Фильмовые" catchup-days="0",Cinema UHD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/UltraHDCinema/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1273" tvg-name="Кино UHD" tvg-logo="http://tvfor.pro/img/images/Chanels/kino_uhd.png" group-title="Фильмовые" catchup-days="0",Кино UHD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/shzTtpAAyc/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1272" tvg-name="Сериал UHD" tvg-logo="http://tvfor.pro/img/images/Chanels/serial_uhd.png" group-title="Фильмовые" catchup-days="0",Сериал UHD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/CrNaGXLBCv/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1495" tvg-name="BCU Ultra 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUULTRA.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/qvIuwlvWea/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Ultra 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/qvIuwlvWea/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1549" tvg-name="BCU Premiere Ultra 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUPREMIERE.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/JANcUORiTU/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Premiere Ultra 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/JANcUORiTU/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1491" tvg-name="BCU Premiere HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUPREMIERE.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/tJcFtEAXiI/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Premiere HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/tJcFtEAXiI/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1484" tvg-name="BCU Comedy HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUCOMEDY.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/ufBGgULrKs/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Comedy HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/ufBGgULrKs/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1492" tvg-name="BCU Romantic HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUROMANTIC.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/TgHLYtkVDK/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Romantic HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/TgHLYtkVDK/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1482" tvg-name="BCU Cinema HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUCINEMA.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/UPVMgotbxa/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Cinema HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/UPVMgotbxa/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1483" tvg-name="BCU Cinema+ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUCINEMA+.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/LFljARWTBj/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Cinema+ HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/LFljARWTBj/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1489" tvg-name="BCU Kinorating HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUKINORATING.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/MWrbyDsABm/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Kinorating HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/MWrbyDsABm/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1494" tvg-name="BCU Stars HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUSTARS.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/mJpwjjiIMg/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Stars HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/mJpwjjiIMg/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1841" tvg-name="BCU TruMotion HD" tvg-logo="http://tvfor.pro/img/images/Chanels/bcu_trumotion.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/AstEFUnGeo/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU TruMotion HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/AstEFUnGeo/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1591" tvg-name="BCU Reality HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUREALITY.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/maRADOWrIC/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Reality HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/maRADOWrIC/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1530" tvg-name="BCU Criminal HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUCRIMINAL.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/AsTorpOLDo/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Criminal HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/AsTorpOLDo/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1490" tvg-name="BCU Marvel HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUMARVEL.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/AYvtaBQtUT/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Marvel HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/AYvtaBQtUT/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1480" tvg-name="BCU Action HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUACTION.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/FjSHYiDSAi/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Action HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/FjSHYiDSAi/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1599" tvg-name="BCU Survival HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUSURVIVAL.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/ENiAgmEsYm/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Survival HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/ENiAgmEsYm/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1481" tvg-name="BCU Catastrophe HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUCATASTROPHE.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/FTfjYHsIyp/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Catastrophe HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/FTfjYHsIyp/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1505" tvg-name="BCU Fantastic HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUFANTASTIC.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/vYCqDYJMWc/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Fantastic HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/vYCqDYJMWc/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1794" tvg-name="BCU Cosmo HD" tvg-logo="http://tvfor.pro/img/images/Chanels/BCU_Cosmo.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/noMsTabInV/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Cosmo HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/noMsTabInV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1485" tvg-name="BCU FilMystic HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUFIMYSTIC.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/ItwZbajWWL/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU FilMystic HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/ItwZbajWWL/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1486" tvg-name="BCU History HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUHISTORY.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/aEltYOHpSW/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU History HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/aEltYOHpSW/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1496" tvg-name="BCU VHS HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUVHS.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/NFlnoxMzoq/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU VHS HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/NFlnoxMzoq/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1504" tvg-name="BCUMEDIA HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUMEDIA.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/fnsYZrIZNZ/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCUMEDIA HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/fnsYZrIZNZ/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1493" tvg-name="BCU Russian HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCURUSSIAN.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/LcExrsPjnL/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU Russian HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/LcExrsPjnL/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1503" tvg-name="BCU СССР HD" tvg-logo="http://tvfor.pro/img/images/Chanels/LOGOBCUSSSR.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/iZraCajoZR/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU СССР HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/iZraCajoZR/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2492" tvg-name="MiTV Кинозал СССР 4К" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_sssr.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/fHlDI98WwFsy/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал СССР 4К
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/fHlDI98WwFsy/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2474" tvg-name="MiTV Кинозал 1 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_1.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/eQoz61fXvqEx/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 1 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/eQoz61fXvqEx/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2475" tvg-name="MiTV Кинозал 2 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_2.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/UUo8skkb3xS2/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 2 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/UUo8skkb3xS2/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2476" tvg-name="MiTV Кинозал 3 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_3.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/20QQLcGBKYAJ/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 3 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/20QQLcGBKYAJ/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2478" tvg-name="MiTV Кинозал 5 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_5.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Nex5cc62bb5m/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 5 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/Nex5cc62bb5m/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2477" tvg-name="MiTV Кинозал 4 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_4.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/uDSTs94pmKXs/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 4 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/uDSTs94pmKXs/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2479" tvg-name="MiTV Кинозал 6 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_6.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/YuWTV6QVCt2h/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 6 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/YuWTV6QVCt2h/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2480" tvg-name="MiTV Кинозал 7 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_7.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/2Slary8Kn2dh/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 7 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/2Slary8Kn2dh/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2481" tvg-name="MiTV Кинозал 8 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_8.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/pUucZo6CMist/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 8 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/pUucZo6CMist/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2482" tvg-name="MiTV Кинозал 9 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_9.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/nJ9qRTxKjEMY/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 9 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/nJ9qRTxKjEMY/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2483" tvg-name="MiTV Кинозал 10 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_10.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/C1ffW5GqM4YR/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 10 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/C1ffW5GqM4YR/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2484" tvg-name="MiTV Кинозал 11 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_11.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/0kv8Q31vRHoF/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 11 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/0kv8Q31vRHoF/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2485" tvg-name="MiTV Кинозал 12 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_12.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Agqa10906Y7j/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 12 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/Agqa10906Y7j/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2486" tvg-name="MiTV Кинозал 13 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/mitv_kinozal_13.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Mafs3dYB1ZWW/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Кинозал 13 4K
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/Mafs3dYB1ZWW/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="31" tvg-name="Родное кино" tvg-logo="http://tvfor.pro/img/images/Chanels/31.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Rodnoekino/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Родное кино
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/NasheKino/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="164" tvg-name="Дом кино" tvg-logo="http://tvfor.pro/img/images/Chanels/perviy_2.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Domkino/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Дом кино
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/QE1LaCWojT/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="547" tvg-name="Дом кино Премиум HD" tvg-logo="http://tvfor.pro/img/images/Chanels/dom_kino_p.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/DomkinoPremiumHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Дом кино Премиум HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/x82tBpggOQ/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="732" tvg-name="FilmBox" tvg-logo="http://tvfor.pro/img/images/Chanels/filmbox_central_eu.png" group-title="Фильмовые" catchup-days="0",FilmBox
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/8joVHhJksB/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="733" tvg-name="FilmBox Arthouse" tvg-logo="http://tvfor.pro/img/images/Chanels/filmbox_arthouse_pl.png" group-title="Фильмовые" catchup-days="0",FilmBox Arthouse
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/FilmBoxArthouse/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1192" tvg-name="Киносат" tvg-logo="http://tvfor.pro/img/images/Chanels/kinosat.png" group-title="Фильмовые" catchup-days="0",Киносат
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/Kinosat/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="83" tvg-name="Русский Иллюзион" tvg-logo="http://tvfor.pro/img/images/Chanels/russkij_.png" group-title="Фильмовые" catchup-days="0",Русский Иллюзион
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/RussianIllusion/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1351" tvg-name="Русский Иллюзион HD" tvg-logo="http://tvfor.pro/img/images/Chanels/russkiy_illusion_ru.png" group-title="Фильмовые" catchup-days="0",Русский Иллюзион HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/ioNapENsen/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1350" tvg-name="Иллюзион+ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/illusion_plus.png" group-title="Фильмовые" catchup-days="0",Иллюзион+ HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/pTiveRICtI/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="84" tvg-name="Наше Новое Кино" tvg-logo="http://tvfor.pro/img/images/Chanels/84.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Nashenovoekino/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Наше Новое Кино
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/O7PhblFC9y/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1207" tvg-name="Наше Новое Кино HD" tvg-logo="http://tvfor.pro/img/images/Chanels/84.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Nashe_Novoe_Kino_HD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Наше Новое Кино HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/NasheNovoeKinoHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1512" tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="http://tvfor.pro/img/images/Chanels/mosfilm.png" group-title="Фильмовые" catchup-days="0",Мосфильм. Золотая коллекция HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/FICURELdsC/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="391" tvg-name="Любимое кино" tvg-logo="http://tvfor.pro/img/images/Chanels/lubimoe_kino.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/NasheLubimoeKino/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Любимое кино
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/NasheLubimoeKino/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1241" tvg-name="Победа" tvg-logo="http://tvfor.pro/img/images/Chanels/428x280.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/POBEDAHDArxiv/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Победа
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/cGQJccUzNj/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1334" tvg-name="День победы" tvg-logo="http://tvfor.pro/img/images/Chanels/den_pobedi.png" group-title="Фильмовые" catchup-days="0",День победы
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/wioSowKrOD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1308" tvg-name="Арсенал" tvg-logo="http://tvfor.pro/img/images/Chanels/arsenal.png" group-title="Фильмовые" catchup-days="0",Арсенал
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/nQUIDEfEaN/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1116" tvg-name="Любимое" tvg-logo="http://tvfor.pro/img/images/Chanels/lubimoe.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/NasheLubimoeHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Любимое
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/Zj1C4RZR4r/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="335" tvg-name="Русский роман" tvg-logo="http://tvfor.pro/img/images/Chanels/rus_roman.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/RussianRoman/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Русский роман
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/rusroman/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1004" tvg-name="Русский роман HD" tvg-logo="http://tvfor.pro/img/images/Chanels/rus_roman.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/russianromanhd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Русский роман HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/RusskiyRomanHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="560" tvg-name="Русский Детектив" tvg-logo="http://tvfor.pro/img/images/Chanels/rus_detektiv.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/russiandetektiv/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Русский Детектив
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/RusskiyDetektiv/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="336" tvg-name="Русский бестселлер" tvg-logo="http://tvfor.pro/img/images/Chanels/rus_bestceler.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/RussianBestseller/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Русский бестселлер
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/rusbestler/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="379" tvg-name="Наше" tvg-logo="http://tvfor.pro/img/images/Chanels/nashe_krutoe.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/NasheKrutoeHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Наше
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/semHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1326" tvg-name="Наш Кинопоказ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/nash_kinopokaz.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/NashKinopokazHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Наш Кинопоказ HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/eRYlaCItAR/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="65" tvg-name="Киносерия" tvg-logo="http://tvfor.pro/img/images/Chanels/65.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/MnogoTV/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Киносерия
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/MnogoTV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1242" tvg-name="Киносерия HD" tvg-logo="http://tvfor.pro/img/images/Chanels/65.png" group-title="Фильмовые" catchup-days="0",Киносерия HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/xEwBTXNyfZ/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="460" tvg-name="Душевное" tvg-logo="http://tvfor.pro/img/images/Chanels/dushevnoe.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/NashKinoromanHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Душевное
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/nasheHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="624" tvg-name="Мир сериала" tvg-logo="http://tvfor.pro/img/images/Chanels/1112.jpg" group-title="Фильмовые" catchup-days="0",Мир сериала
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/mirserialov/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1502" tvg-name="BCU RUSerial HD" tvg-logo="http://tvfor.pro/img/images/Chanels/bcu_ruserial.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/JCHiytCBGF/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",BCU RUSerial HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/JCHiytCBGF/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1073" tvg-name="Феникс+ Кино" tvg-logo="http://tvfor.pro/img/images/Chanels/325.jpg" group-title="Фильмовые" catchup-days="0",Феникс+ Кино
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/HorosheeKino/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1081" tvg-name="Bolt HD RU" tvg-logo="http://tvfor.pro/img/images/Chanels/160x160.jpg" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/boltru_hd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Bolt HD RU
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/BOLT/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1210" tvg-name="Bolt HD UA" tvg-logo="http://tvfor.pro/img/images/Chanels/160x160.jpg" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/BoltUKR/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Bolt HD UA
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/BoltUA/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1346" tvg-name="Star Cinema HD" tvg-logo="http://tvfor.pro/img/images/Chanels/star-cinema-ua.png" group-title="Фильмовые" catchup-days="0",Star Cinema HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/aNsitiCane/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1347" tvg-name="Star Family HD" tvg-logo="http://tvfor.pro/img/images/Chanels/star-family-ua.png" group-title="Фильмовые" catchup-days="0",Star Family HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/AchROSibrA/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="267" tvg-name="A1" tvg-logo="http://tvfor.pro/img/images/Chanels/57.jpg" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Amedia1/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",A1
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/Amedia1/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1342" tvg-name="A1 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/a_media_ru_1.png" group-title="Фильмовые" catchup-days="0",A1 HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/AncUbjEWAY/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="268" tvg-name="A2" tvg-logo="http://tvfor.pro/img/images/Chanels/58.jpg" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/Amedia2/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",A2
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/Amedia2/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1343" tvg-name="A2 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/a_media_ru_2.png" group-title="Фильмовые" catchup-days="0",A2 HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/NCemICUMUt/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="269" tvg-name="Amedia Premium" tvg-logo="http://tvfor.pro/img/images/Chanels/amedia_r.png" group-title="Фильмовые" catchup-days="0",Amedia Premium
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/AmediaPremium/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="241" tvg-name="Amedia Premium HD" tvg-logo="http://tvfor.pro/img/images/Chanels/amedia_r.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/AHOMEOFHBO2/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Amedia Premium HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/AmediaPremiumHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="350" tvg-name="Amedia Hit" tvg-logo="http://tvfor.pro/img/images/Chanels/a_media_ru_hit.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/AMEDIAHIT/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Amedia Hit
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/AMEDIAHIT/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="892" tvg-name="Amedia HIT HD" tvg-logo="http://tvfor.pro/img/images/Chanels/a_media_ru_hit.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/AHOMEOFHBO1/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Amedia HIT HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/AMEDIAHITHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1846" tvg-name=".red HD" tvg-logo="http://tvfor.pro/img/images/Chanels/red-ru.png" group-title="Фильмовые" catchup-days="0",.red HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/tabENtIcAl/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="207" tvg-name=".sci-fi HD" tvg-logo="http://tvfor.pro/img/images/Chanels/sci-fi-ru.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/SonySci_FiRussia/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",.sci-fi HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/SonySci_FiRussia/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="274" tvg-name=".black HD" tvg-logo="http://tvfor.pro/img/images/Chanels/black-ru.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/SonyTurbo/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",.black HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/SonyTurbo/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1524" tvg-name="AMC" tvg-logo="http://tvfor.pro/img/images/Chanels/amc-us.png" group-title="Фильмовые" catchup-days="0",AMC
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/NKyrIalEct/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="61" tvg-name="Hollywood" tvg-logo="http://tvfor.pro/img/images/Chanels/hollywood.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/HollywoodSD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Hollywood
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/TheMGMChannelEastEurope/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="147" tvg-name="Hollywood HD" tvg-logo="http://tvfor.pro/img/images/Chanels/hollywood_hd.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/HollywoodHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Hollywood HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/MGMHDRussia/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="501" tvg-name="Cinema" tvg-logo="http://tvfor.pro/img/images/Chanels/296.jpg" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/cinema/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Cinema
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/parkrazvlicheniy/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1260" tvg-name="Cinema (Космос ТВ)" tvg-logo="http://tvfor.pro/img/images/Chanels/kosmos_tv.png" group-title="Фильмовые" catchup-days="0",Cinema (Космос ТВ)
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/YIcBFpiMre/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="421" tvg-name="Fox HD" tvg-logo="http://tvfor.pro/img/images/Chanels/fox_hd_lam.png" group-title="Фильмовые" catchup-days="0",Fox HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/1MDfNhnHnr/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="37" tvg-name="Fox Life" tvg-logo="http://tvfor.pro/img/images/Chanels/fox_life.png" group-title="Фильмовые" catchup-days="0",Fox Life
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/FoxLifeRussia/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="422" tvg-name="Fox Life HD" tvg-logo="http://tvfor.pro/img/images/Chanels/fox_life_global.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/foxlifehd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Fox Life HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/MO9Xgg0spq/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1063" tvg-name="Paramount Comedy RU" tvg-logo="http://tvfor.pro/img/images/Chanels/2175.jpg" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/jDEaBuKUTl/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Paramount Comedy RU
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/jDEaBuKUTl/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="168" tvg-name="Paramount Comedy HD UA" tvg-logo="http://tvfor.pro/img/images/Chanels/paramoun.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/ParamountComedyUKR/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Paramount Comedy HD UA
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/ParamountComedyRussia/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1030" tvg-name="Комедия" tvg-logo="http://tvfor.pro/img/images/Chanels/russkaya_komediya_ru.png" group-title="Фильмовые" catchup-days="0",Комедия
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/RussianComedy/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="30" tvg-name="TV XXI" tvg-logo="http://tvfor.pro/img/images/Chanels/tv21_lv0.png" group-title="Фильмовые" catchup-days="0",TV XXI
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/OX4FsxrESk/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="215" tvg-name="Shot TV" tvg-logo="http://tvfor.pro/img/images/Chanels/shot-tv-ru.png" group-title="Фильмовые" catchup-days="0",Shot TV
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/EgoistTV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1359" tvg-name="FAN HD" tvg-logo="http://tvfor.pro/img/images/Chanels/fan-ru.png" group-title="Фильмовые" catchup-days="0",FAN HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/iNgENTicAl/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="277" tvg-name="Настоящее страшное ТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/nastoyashee_strashnoe_tv_ru.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/NST/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Настоящее страшное ТВ
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/RealScaryTV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="452" tvg-name="Страшное HD" tvg-logo="http://tvfor.pro/img/images/Chanels/1415773522_34567.jpg" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/iRqZkZdRpP/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Страшное HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/iRqZkZdRpP/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="28" tvg-name="Индийское кино" tvg-logo="http://tvfor.pro/img/images/Chanels/28.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/IndiaTV/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Индийское кино
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/IndiaTV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1008" tvg-name="Bollywood HD" tvg-logo="http://tvfor.pro/img/images/Chanels/BollyWood_IL.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/BollywoodHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Bollywood HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/BollywoodTVHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="18" tvg-name="Enter-фильм" tvg-logo="http://tvfor.pro/img/images/Chanels/enter_film.png" group-title="Фильмовые" catchup-days="0",Enter-фильм
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/EnterFilm/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="429" tvg-name="Ретро" tvg-logo="http://tvfor.pro/img/images/Chanels/retro_tv.png" group-title="Фильмовые" catchup-days="0",Ретро
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/RETRO/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1349" tvg-name="Еврокино HD" tvg-logo="http://tvfor.pro/img/images/Chanels/eurokino.png" group-title="Фильмовые" catchup-days="0",Еврокино HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/tEfIShenet/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1344" tvg-name="Epic Drama HD" tvg-logo="http://tvfor.pro/img/images/Chanels/epic-drama-se.png" group-title="Фильмовые" catchup-days="0",Epic Drama HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/NcONaVAner/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1348" tvg-name="Дорама HD" tvg-logo="http://tvfor.pro/img/images/Chanels/dorama-uk.png" group-title="Фильмовые" catchup="default" catchup-source="http://messi.tvfor.pro/ERsEAnaRIC/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Дорама HD
+#EXTGRP:Фильмовые
+http://messi.tvfor.pro/ERsEAnaRIC/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1246" tvg-name="Discovery HD" tvg-logo="http://tvfor.pro/img/images/Chanels/Discovery.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/DiscoveryChannelHDEuropa/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Discovery HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/hYWRCXPdxQ/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1017" tvg-name="DTX HD" tvg-logo="http://tvfor.pro/img/images/Chanels/dtx_tv.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/dtxhd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",DTX HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Qkscp722L5/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="131" tvg-name="Авто Плюс" tvg-logo="http://tvfor.pro/img/images/Chanels/auto_plu.png" group-title="Познавательные" catchup-days="0",Авто Плюс
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/AutoPlus/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1469" tvg-name="Авто Плюс HD" tvg-logo="http://tvfor.pro/img/images/Chanels/auto_plu.png" group-title="Познавательные" catchup-days="0",Авто Плюс HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/garlOWHIvE/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="569" tvg-name="Discovery Science HD" tvg-logo="http://tvfor.pro/img/images/Chanels/sci_ds_195.jpg" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/DiscoveryScience/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Discovery Science HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/8NdErBmgQ1/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1089" tvg-name="Investigation Discovery HD" tvg-logo="http://tvfor.pro/img/images/Chanels/discovery_id_tv.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/DISCOVERY_ID_HD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Investigation Discovery HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/IDXtraHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="190" tvg-name="TLC" tvg-logo="http://tvfor.pro/img/images/Chanels/tlc_tv.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/TLC_Pan_Region/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",TLC
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/TLCRussia/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="243" tvg-name="TLC HD" tvg-logo="http://tvfor.pro/img/images/Chanels/tlc_tv.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/TLCHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",TLC HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/TLCRussiaHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="242" tvg-name="History HD" tvg-logo="http://tvfor.pro/img/images/Chanels/history__tv.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/HISTORY_HD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",History HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/HistoryRussiaHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1519" tvg-name="History HD Европа" tvg-logo="http://tvfor.pro/img/images/Chanels/history__tv.png" group-title="Познавательные" catchup-days="0",History HD Европа
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/UbuctOBiEl/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1061" tvg-name="H2 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/h2_history_tv.png" group-title="Познавательные" catchup-days="0",H2 HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/h2hd/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1447" tvg-name="HGTV HD" tvg-logo="http://tvfor.pro/img/images/Chanels/hgtv_us.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/RlOsTiOuRe/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",HGTV HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/RlOsTiOuRe/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2499" tvg-name="MiTV Top Gear / Grand Tour" tvg-logo="http://tvfor.pro/img/images/Chanels/TOP_GEAR_GRAND_TOUR.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/HR18HJna6gA2/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="1" timeshift="1",MiTV Top Gear / Grand Tour
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/HR18HJna6gA2/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1196" tvg-name="Insight HD" tvg-logo="http://tvfor.pro/img/images/Chanels/insight-hd-nl.png" group-title="Познавательные" catchup-days="0",Insight HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/InsightUltraHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1198" tvg-name="HOME 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/ntv_plus_home_4k.png" group-title="Познавательные" catchup-days="0",HOME 4K
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/HOME4K/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1310" tvg-name="Наша Сибирь 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/nashasibir.png" group-title="Познавательные" catchup-days="0",Наша Сибирь 4K
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/aseUMEREHO/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1271" tvg-name="Love Nature 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/love_nature_ca.png" group-title="Познавательные" catchup-days="0",Love Nature 4K
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/tfdUGIjOiO/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1341" tvg-name="MyZen TV 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/my_zen_tv_fr.png" group-title="Познавательные" catchup-days="0",MyZen TV 4K
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/usTErEthRa/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="239" tvg-name="National Geographic HD" tvg-logo="http://tvfor.pro/img/images/Chanels/nat_geo0.png" group-title="Познавательные" catchup-days="0",National Geographic HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/NatGeoHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="41" tvg-name="Nat Geo Wild HD" tvg-logo="http://tvfor.pro/img/images/Chanels/nat_geo_.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/Nat_Geo_Wild_CEE_HD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/aJI9sF0XTo/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="189" tvg-name="Animal Planet" tvg-logo="http://tvfor.pro/img/images/Chanels/AP.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/AnimalPlanetRussia/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Animal Planet
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/AnimalPlanetRussia/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="89" tvg-name="Animal Planet HD" tvg-logo="http://tvfor.pro/img/images/Chanels/APHD.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/AnimalPlanetHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Animal Planet HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/MARZLYimLm/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="44" tvg-name="HDL" tvg-logo="http://tvfor.pro/img/images/Chanels/hdl_tv.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/HDL/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",HDL
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/HDLife/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1248" tvg-name="Глазами туриста" tvg-logo="http://tvfor.pro/img/images/Chanels/glazami-turista-ru.png" group-title="Познавательные" catchup-days="0",Глазами туриста
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/pDPxCMagDF/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1544" tvg-name="Глазами туриста 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/glazami-turista-ru.png" group-title="Познавательные" catchup-days="0",Глазами туриста 4K
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/EqUITERaDI/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1352" tvg-name="Museum HD" tvg-logo="http://tvfor.pro/img/images/Chanels/museum_tv_fr.png" group-title="Познавательные" catchup-days="0",Museum HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/eRVIECtiCI/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="152" tvg-name="Viasat History" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_i.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/ViasatHistory/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Viasat History
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/ViasatHistory/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1353" tvg-name="Viasat History HD" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_history_hd.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/viasathistoryhd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Viasat History HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/BEROsorAMW/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="371" tvg-name="Viasat Nature-History HD" tvg-logo="http://tvfor.pro/img/images/Chanels/rIB.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/viasathistoryhd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Viasat Nature-History HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/ViasatNatureHistoryHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="94" tvg-name="Viasat Nature CEE" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_o.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/ViasatNatureEast/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Viasat Nature CEE
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/ViasatNatureEast/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="95" tvg-name="Viasat Explore" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_e.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/ViasatExplorer/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Viasat Explore
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/ViasatExplorer/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1312" tvg-name="Viasat Nature HD" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_n.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/ViasatNatureHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Viasat Nature HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/sceqBYxSgn/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1313" tvg-name="Viasat Explore HD" tvg-logo="http://tvfor.pro/img/images/Chanels/viasat_e.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/viasatexplorehd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Viasat Explore HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/UrWLbHDNiA/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1190" tvg-name="DocuBox HD" tvg-logo="http://tvfor.pro/img/images/Chanels/docu_box_hd(1).png" group-title="Познавательные" catchup-days="0",DocuBox HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/DocuBoxHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1032" tvg-name="Нано HD" tvg-logo="http://tvfor.pro/img/images/Chanels/nano--tv.png" group-title="Познавательные" catchup-days="0",Нано HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Nano/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1565" tvg-name="Зал Суда" tvg-logo="http://tvfor.pro/img/images/Chanels/zal-suda-ru.png" group-title="Познавательные" catchup-days="0",Зал Суда
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Zalsuda/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2450" tvg-name="CBS Reality" tvg-logo="http://tvfor.pro/img/images/Chanels/cbs-reality-uk.png" group-title="Познавательные" catchup-days="0",CBS Reality
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/TAneBRiLaR/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="98" tvg-name="365 дней ТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/365_dnei.png" group-title="Познавательные" catchup-days="0",365 дней ТВ
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/365dneiTV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="54" tvg-name="France 24" tvg-logo="http://tvfor.pro/img/images/Chanels/france24.png" group-title="Познавательные" catchup-days="0",France 24
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/France24English/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="180" tvg-name="Доктор" tvg-logo="http://tvfor.pro/img/images/Chanels/dok_tor.png" group-title="Познавательные" catchup-days="0",Доктор
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/24Dock/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1400" tvg-name="Доктор HD" tvg-logo="http://tvfor.pro/img/images/Chanels/dok_tor.png" group-title="Познавательные" catchup-days="0",Доктор HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/AloRSaBLan/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="200" tvg-name="Приключения HD" tvg-logo="http://tvfor.pro/img/images/Chanels/priklyucheniya.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/SM_PrikluchenieHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Приключения HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/RTGTV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1202" tvg-name="Дикий" tvg-logo="http://tvfor.pro/img/images/Chanels/dykiy_o_i_r.png" group-title="Познавательные" catchup-days="0",Дикий
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Dikiy/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1140" tvg-name="Дикая охота HD" tvg-logo="http://tvfor.pro/img/images/Chanels/d_ohota.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/DikayaOxotaHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Дикая охота HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/DikayaOkhotaHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1141" tvg-name="Дикая рыбалка HD" tvg-logo="http://tvfor.pro/img/images/Chanels/d_ryba.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/DikayaRybalkaHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Дикая рыбалка HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/KtT5WilF3w/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="810" tvg-name="Охотник и Рыболов HD" tvg-logo="http://tvfor.pro/img/images/Chanels/810.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/ohotnikiribakhd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Охотник и Рыболов HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/OhotnikirybolovHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1354" tvg-name="Диалоги о рыбалке HD" tvg-logo="http://tvfor.pro/img/images/Chanels/dialogi_o_rybalke_ru.png" group-title="Познавательные" catchup-days="0",Диалоги о рыбалке HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/EMErGARdIO/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1451" tvg-name="Охотник и Рыболов Int" tvg-logo="http://tvfor.pro/img/images/Chanels/Oirint.png" group-title="Познавательные" catchup-days="0",Охотник и Рыболов Int
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/IVExHOmISH/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="92" tvg-name="Охота и рыбалка" tvg-logo="http://tvfor.pro/img/images/Chanels/ohota_i_ryba.png" group-title="Познавательные" catchup-days="0",Охота и рыбалка
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Ohotairibalka/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="45" tvg-name="Da Vinci" tvg-logo="http://tvfor.pro/img/images/Chanels/da_vinci.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/DaVinchiLearningNTV/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Da Vinci
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/DaVinciLearning/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1249" tvg-name="Бобер" tvg-logo="http://tvfor.pro/img/images/Chanels/bober_tv_ru.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/xpqoCBStvN/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Бобер
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/xpqoCBStvN/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1148" tvg-name="Усадьба" tvg-logo="http://tvfor.pro/img/images/Chanels/esadba.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/Usadba/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Усадьба
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/gzKDWIGb8J/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="219" tvg-name="World Fashion Channel" tvg-logo="http://tvfor.pro/img/images/Chanels/world_fa.png" group-title="Познавательные" catchup-days="0",World Fashion Channel
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/WorldFashionChannelRussia/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="507" tvg-name="Fashion TV" tvg-logo="http://tvfor.pro/img/images/Chanels/fashi_tv.png" group-title="Познавательные" catchup-days="0",Fashion TV
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/FashionTV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1009" tvg-name="English Club TV HD" tvg-logo="http://tvfor.pro/img/images/Chanels/1507.jpg" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/EnglishClubHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",English Club TV HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/EnglishClubTVHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1399" tvg-name="Наша Тема HD" tvg-logo="http://tvfor.pro/img/images/Chanels/nasha-tema-ru.png" group-title="Познавательные" catchup-days="0",Наша Тема HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/AmPasHILBR/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1203" tvg-name="Поехали!" tvg-logo="http://tvfor.pro/img/images/Chanels/poehali_telekanal_ru.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/Poehali/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Поехали!
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Poehali/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1356" tvg-name="Поехали! HD" tvg-logo="http://tvfor.pro/img/images/Chanels/poehali_telekanal_ru.png" group-title="Познавательные" catchup-days="0",Поехали! HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/eNtfUlUmpe/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="508" tvg-name="Живая планета" tvg-logo="http://tvfor.pro/img/images/Chanels/zhivaya_planeta_ru.png" group-title="Познавательные" catchup-days="0",Живая планета
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/ZhivayaPlaneta/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="533" tvg-name="Первый Космический HD" tvg-logo="http://tvfor.pro/img/images/Chanels/1-space.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/EUREKA_HD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Первый Космический HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/EurekaHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="177" tvg-name="Ocean TV" tvg-logo="http://tvfor.pro/img/images/Chanels/ocean_tv.png" group-title="Познавательные" catchup-days="0",Ocean TV
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/OceanTV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="564" tvg-name="Моя стихия" tvg-logo="http://tvfor.pro/img/images/Chanels/Moya_stihiya.png" group-title="Познавательные" catchup-days="0",Моя стихия
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/NauticalChannel/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1471" tvg-name="RTG TV" tvg-logo="http://tvfor.pro/img/images/Chanels/rtg_russian_travel_guide.png" group-title="Познавательные" catchup-days="0",RTG TV
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/GoREMskyAh/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="515" tvg-name="RTG HD" tvg-logo="http://tvfor.pro/img/images/Chanels/rtg_ru_hd.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/RTGHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",RTG HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Ai1lhAswvU/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="201" tvg-name="Моя планета" tvg-logo="http://tvfor.pro/img/images/Chanels/moya_pla.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/MoyaPlaneta/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Моя планета
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/MoyaPlaneta/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="455" tvg-name="Моя планета HD" tvg-logo="http://tvfor.pro/img/images/Chanels/moya_pla.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/MoyaPlanetaHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Моя планета HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/IQHD1/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="516" tvg-name="Тайны галактики" tvg-logo="http://tvfor.pro/img/images/Chanels/Glaxy.png" group-title="Познавательные" catchup-days="0",Тайны галактики
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Galaxy/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1368" tvg-name="Тайны галактики HD" tvg-logo="http://tvfor.pro/img/images/Chanels/Glaxy.png" group-title="Познавательные" catchup-days="0",Тайны галактики HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/quITyLeaVe/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="97" tvg-name="Кто есть кто" tvg-logo="http://tvfor.pro/img/images/Chanels/kto_est_hto.png" group-title="Познавательные" catchup-days="0",Кто есть кто
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Ktoestkto/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="260" tvg-name="Ностальгия" tvg-logo="http://tvfor.pro/img/images/Chanels/nostalgi.png" group-title="Познавательные" catchup-days="0",Ностальгия
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Nostalgia/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="64" tvg-name="Совершенно секретно" tvg-logo="http://tvfor.pro/img/images/Chanels/top_sicret.png" group-title="Познавательные" catchup-days="0",Совершенно секретно
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/SovershennoSekretno/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2542" tvg-name="Криминальное HD" tvg-logo="http://tvfor.pro/img/images/Chanels/kriminalnoe-ru.png" group-title="Познавательные" catchup-days="0",Криминальное HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/uGHTenTRin/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="112" tvg-name="Время" tvg-logo="http://tvfor.pro/img/images/Chanels/perviy_4.png" group-title="Познавательные" catchup-days="0",Время
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Vremya/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="221" tvg-name="Телекафе" tvg-logo="http://tvfor.pro/img/images/Chanels/tele_cafe.png" group-title="Познавательные" catchup-days="0",Телекафе
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Telecafe/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="202" tvg-name="Наука" tvg-logo="http://tvfor.pro/img/images/Chanels/nauka2_0.png" group-title="Познавательные" catchup-days="0",Наука
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Nauka20/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1333" tvg-name="Наука HD" tvg-logo="http://tvfor.pro/img/images/Chanels/nauka2_0.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/NAUKA2_0_HD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Наука HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/KyYuCGwdKu/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="456" tvg-name="Т24" tvg-logo="http://tvfor.pro/img/images/Chanels/techno_24_ru.png" group-title="Познавательные" catchup-days="0",Т24
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/24tehno/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="499" tvg-name="Живи!" tvg-logo="http://tvfor.pro/img/images/Chanels/499.png" group-title="Познавательные" catchup-days="0",Живи!
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/jivi/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="446" tvg-name="Travel Channel" tvg-logo="http://tvfor.pro/img/images/Chanels/travel_c.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/TravelChannel/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Travel Channel
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/TravelChannelEurope/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1208" tvg-name="Travel+Adventure" tvg-logo="http://tvfor.pro/img/images/Chanels/travel_adventure_channel_ru.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/TravelAdventure/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Travel+Adventure
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/TravelAdventure/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="855" tvg-name="Travel+Adventure HD" tvg-logo="http://tvfor.pro/img/images/Chanels/travel_adventure_channel_ru.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/TravelAdventureHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Travel+Adventure HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/y6Q1fVjzUu/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="209" tvg-name="История" tvg-logo="http://tvfor.pro/img/images/Chanels/istoriya.png" group-title="Познавательные" catchup-days="0",История
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/IstoriyaTelekanal/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1191" tvg-name="Телепутешествия" tvg-logo="http://tvfor.pro/img/images/Chanels/tele_pu.png" group-title="Познавательные" catchup-days="0",Телепутешествия
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Teleputeshestvia/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="626" tvg-name="Живая Природа HD" tvg-logo="http://tvfor.pro/img/images/Chanels/1115.jpg" group-title="Познавательные" catchup-days="0",Живая Природа HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/ZivayaPrirodaHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="999" tvg-name="В мире животных" tvg-logo="http://tvfor.pro/img/images/Chanels/160x120.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/AnimalFamelyHD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",В мире животных
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/AnimalFamilyHD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="430" tvg-name="ZooПарк" tvg-logo="http://tvfor.pro/img/images/Chanels/zoo_park_ru.png" group-title="Познавательные" catchup-days="0",ZooПарк
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Zoopark/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="10" tvg-name="Мега" tvg-logo="http://tvfor.pro/img/images/Chanels/mega_ua.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/MEGA/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Мега
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/zkK2Sb9GRh/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="955" tvg-name="Оружие" tvg-logo="http://tvfor.pro/img/images/Chanels/oruzhie_telekanal.png" group-title="Познавательные" catchup-days="0",Оружие
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Oruzhie/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="93" tvg-name="Домашние животные" tvg-logo="http://tvfor.pro/img/images/Chanels/domashni.png" group-title="Познавательные" catchup-days="0",Домашние животные
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Domashniezhivotnie/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="426" tvg-name="Вопросы и ответы" tvg-logo="http://tvfor.pro/img/images/Chanels/voprosy_otvety.png" group-title="Познавательные" catchup-days="0",Вопросы и ответы
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/VOPROSY_I_OTVETY/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="428" tvg-name="Драйв" tvg-logo="http://tvfor.pro/img/images/Chanels/drive_tv.png" group-title="Познавательные" catchup-days="0",Драйв
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/DRIVE/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="5" tvg-name="Психология" tvg-logo="http://tvfor.pro/img/images/Chanels/psyhologiya.png" group-title="Познавательные" catchup-days="0",Психология
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Psihologia21/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1355" tvg-name="Загородный int HD" tvg-logo="http://tvfor.pro/img/images/Chanels/zagoroniy.png" group-title="Познавательные" catchup-days="0",Загородный int HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/RdEStEntIM/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="759" tvg-name="Загородная жизнь" tvg-logo="http://tvfor.pro/img/images/Chanels/zagorodnayazhizn.png" group-title="Познавательные" catchup-days="0",Загородная жизнь
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/ZagorodnayaZhizn/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1401" tvg-name="Загородная Жизнь HD" tvg-logo="http://tvfor.pro/img/images/Chanels/zagorodnayazhizn.png" group-title="Познавательные" catchup-days="0",Загородная Жизнь HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/rTWiZElAtI/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="884" tvg-name="E TV" tvg-logo="http://tvfor.pro/img/images/Chanels/E_TV.png" group-title="Познавательные" catchup-days="0",E TV
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/GameShow/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1066" tvg-name="Food Network HD" tvg-logo="http://tvfor.pro/img/images/Chanels/2167.jpg" group-title="Познавательные" catchup-days="0",Food Network HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/foodnetworkhd/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="47" tvg-name="Кухня ТВ" tvg-logo="http://tvfor.pro/img/images/Chanels/kuhnya_t.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/KuhnyaTV/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Кухня ТВ
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/KuhnyaTV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1325" tvg-name="Кухня ТВ HD" tvg-logo="http://tvfor.pro/img/images/Chanels/kuhnya_t.png" group-title="Познавательные" catchup-days="0",Кухня ТВ HD
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/aKeNtICEsC/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="1145" tvg-name="Еда" tvg-logo="http://tvfor.pro/img/images/Chanels/eda_tv_ru.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/Eda/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Еда
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Eda/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="490" tvg-name="Еда Премиум" tvg-logo="http://tvfor.pro/img/images/Chanels/eda_tv_ru.png" group-title="Познавательные" catchup="default" catchup-source="http://messi.tvfor.pro/edahd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="5" timeshift="5",Еда Премиум
+#EXTGRP:Познавательные
+http://messi.tvfor.pro/Z6iXX3fwiz/164wcg3e8558c5py1x5mmtim
+
+
+#EXTINF:-1 tvg-id="2429" tvg-name="Первый канал (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/perviy_k.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/KX2ZvzYMEIEd/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Первый канал (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/KX2ZvzYMEIEd/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2430" tvg-name="Россия 1 (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/rossiya0.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/2oTjXJNt0sy8/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Россия 1 (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/2oTjXJNt0sy8/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2432" tvg-name="НТВ (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/ntv_ru.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/V9eaaG43I5jU/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",НТВ (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/V9eaaG43I5jU/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2442" tvg-name="ТНТ (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_tv.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/NSttdZj3L3C6/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",ТНТ (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/NSttdZj3L3C6/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2443" tvg-name="СТС (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/sts_mosk.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/QPrUJ4CBlaUi/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",СТС (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/QPrUJ4CBlaUi/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2446" tvg-name="СТС Love (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/sts_love_ru(1).png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/1zD9nv8JS6Ed/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",СТС Love (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/1zD9nv8JS6Ed/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2439" tvg-name="Пятница! (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/Pyatnica.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/vKKyieSuB6qV/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Пятница! (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/vKKyieSuB6qV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2436" tvg-name="РЕН ТВ (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/ren_tv_ru.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/0rCCTBfaqJmD/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",РЕН ТВ (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/0rCCTBfaqJmD/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2433" tvg-name="Пятый канал (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/kanal5_p.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/vK8Vyy4QnW6Z/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Пятый канал (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/vK8Vyy4QnW6Z/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2435" tvg-name="ТВ Центр ( 7)" tvg-logo="http://tvfor.pro/img/images/Chanels/tv_centr.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/G5JrTQFHjLUn/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",ТВ Центр ( 7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/G5JrTQFHjLUn/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2440" tvg-name="Звезда (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/telekanal_zvezda_ru.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/viaAfOJ2eqbv/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Звезда (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/viaAfOJ2eqbv/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2447" tvg-name="Че (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/che_1_195.jpg" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/OJdQlqV3aVBb/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Че (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/OJdQlqV3aVBb/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2437" tvg-name="Домашний (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/domashnj.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/46YpnsCH9wpV/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Домашний (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/46YpnsCH9wpV/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2438" tvg-name="ТВ 3 (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/tv_3_ru.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/FguMZWSaCe7R/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",ТВ 3 (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/FguMZWSaCe7R/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2441" tvg-name="Мир (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/mir_ru00.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/eb0PXhslZ2Iw/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Мир (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/eb0PXhslZ2Iw/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2431" tvg-name="Ю ( 7)" tvg-logo="http://tvfor.pro/img/images/Chanels/u_tv_ru0.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/Eqmdzewe5OVO/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Ю ( 7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/Eqmdzewe5OVO/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2434" tvg-name="Карусель (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/karusel0.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/uMLZ9diO0ROT/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Карусель (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/uMLZ9diO0ROT/164wcg3e8558c5py1x5mmtim
+#EXTINF:-1 tvg-id="2444" tvg-name="Disney (+7)" tvg-logo="http://tvfor.pro/img/images/Chanels/disney_c.png" group-title="Базовые +" catchup="default" catchup-source="http://messi.tvfor.pro/sWy44gRRUmom/164wcg3e8558c5py1x5mmtim?utc=${start}" catchup-days="3" timeshift="3",Disney (+7)
+#EXTGRP:Базовые +
+http://messi.tvfor.pro/sWy44gRRUmom/164wcg3e8558c5py1x5mmtim
 
 
 #EXTINF:-1, tvg-id="ch" WORLD HD
