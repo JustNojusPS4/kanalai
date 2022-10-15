@@ -1,1 +1,296 @@
+#EXTINF:-1 tvg-id="ch498" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch498.png" group-title="Lietuviški", TV1 HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch498/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f623d9d9fec
+#EXTINF:-1 tvg-id="ch490" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch490.png" group-title="Lietuviški", TV3 HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch490/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f628a389fec
+#EXTINF:-1 tvg-id="ch495" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch495.png" group-title="Lietuviški", TV6 HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch495/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6b26299fec
+#EXTINF:-1 tvg-id="ch497" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch497.png" group-title="Lietuviški", TV8 HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch497/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f655fcf9fec
+#EXTINF:-1 tvg-id="ch493" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch493.png" group-title="Lietuviški", LNK HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch493/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6135ef9fec
+#EXTINF:-1 tvg-id="ch496" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch496.png" group-title="Lietuviški", Info TV HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch496/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c5ed09fec
+#EXTINF:-1 tvg-id="ch586" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch586.png" group-title="Lietuviški", LRT Plus HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch586/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6becae9fec
+#EXTINF:-1 tvg-id="ch499" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch499.png" group-title="Lietuviški", Lietuvos Rytas HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch499/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6ef4569fec
+#EXTINF:-1 tvg-id="ch826" tvg-rec="1" tvg-logo="http://api.01cdn.wf/icon/ch826.png" group-title="Lietuviški", Balticum Platinum HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch826/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f622c239fec
+#EXTINF:-1 tvg-id="ch492" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch492.png" group-title="Lietuviški", BTV HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch492/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6545779fec
+#EXTINF:-1 tvg-id="ch491" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch491.png" group-title="Lietuviški", LRT HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch491/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6089e29fec
+#EXTINF:-1 tvg-id="ch583" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch583.png" group-title="Lietuviški", TV3 Film HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch583/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f66376b9fec
+#EXTINF:-1 tvg-id="ch861" tvg-rec="1" tvg-logo="http://api.01cdn.wf/icon/ch861.png" group-title="Lietuviški", Duo 3 HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch861/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c5b659fec
+#EXTINF:-1 tvg-id="ch862" tvg-rec="1" tvg-logo="http://api.01cdn.wf/icon/ch862.png" group-title="Lietuviški", Duo 6 HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch862/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6dddfc9fec
+#EXTINF:-1 tvg-id="ch581" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch581.png" group-title="Lietuviški", FilmZone+ HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch581/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f60744d9fec
+#EXTINF:-1 tvg-id="ch580" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch580.png" group-title="Lietuviški", Epic Drama HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch580/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69683c9fec
+#EXTINF:-1 tvg-id="ch825" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch825.png" group-title="Lietuviški", Delfi TV HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch825/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6a59d89fec
+#EXTINF:-1 tvg-id="ch824" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch824.png" group-title="Lietuviški", TV3 Sport Open HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch824/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69ea879fec
+#EXTINF:-1 tvg-id="ch584" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch584.png" group-title="Lietuviški", TV3 Sport HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch584/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6dd7579fec
+#EXTINF:-1 tvg-id="ch585" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch585.png" group-title="Lietuviški", TV3 Sport 2 HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch585/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6c20ca9fec
+#EXTINF:-1 tvg-id="ch494" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch494.png" group-title="Lietuviški", Sport 1 HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch494/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6fe4159fec
+#EXTINF:-1 tvg-id="ch878" tvg-rec="1" tvg-logo="http://api.01cdn.wf/icon/ch878.png" group-title="Lietuviški", Arena Sport 1 HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch878/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6434079fec
+#EXTINF:-1 tvg-id="ch309" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch309.png" group-title="Lietuviški", Kidzone Plus HD
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch309/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f65b95b9fec
+#EXTINF:-1 tvg-id="ch588" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch588.png" group-title="Lietuviški", 2TV
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch588/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f68bdd09fec
+#EXTINF:-1 tvg-id="ch828" tvg-rec="1" tvg-logo="http://api.01cdn.wf/icon/ch828.png" group-title="Lietuviški", Zvaigzde TV
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch828/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f65ece69fec
+#EXTINF:-1 tvg-id="ch589" tvg-rec="3" tvg-logo="http://api.01cdn.wf/icon/ch589.png" group-title="Lietuviški", Balticum Auksinis
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch589/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f69c0e39fec
+#EXTINF:-1 tvg-id="ch827" tvg-rec="1" tvg-logo="http://api.01cdn.wf/icon/ch827.png" group-title="Lietuviški", Init TV
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch827/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f675f659fec
+#EXTINF:-1 tvg-id="ch863" tvg-rec="1" tvg-logo="http://api.01cdn.wf/icon/ch863.png" group-title="Lietuviški", TLC
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch863/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6f10db9fec
+#EXTINF:-1 tvg-id="ch864" tvg-rec="1" tvg-logo="http://api.01cdn.wf/icon/ch864.png" group-title="Lietuviški", Seimas Tiesiogiai
+#EXTGRP:1. Lietuviški
+http://cloud03.02cdn.wf/ch864/video.m3u8?token=f22b51ae7740e87a7b889f5f190d09f6a5e499fec
 
+
+#EXTINF:-1, tvg-id="ch" WORLD HD
+#EXTGRP:Pažintiniai
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/6519.png",Sochi Live HD
+#EXTGRP:Pažintiniai
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1, tvg-id="ch" Министерство идей
+#EXTGRP:Pažintiniai
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pažintiniai",Енисей
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Pažintiniai",Министерство Идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pažintiniai",Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1 group-title="Pažintiniai",Салям ТВ
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Pramoginiai",СТВ Беларусь
+http://212.98.171.116/HLS/ctvby/playlist.m3u8?seg-user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="Pramoginiai",Первый Псковский
+http://194.190.78.91/pskov/rewind-10800.m3u8
+#EXTINF:-1 group-title="Pramoginiai" tvg-logo="http://only4.tv/ch/6756.png",Север (Нарьян-Мар)
+http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",СТВ (Беларусь)
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 tvg-id="ch330" group-title="Pramoginiai",8 Канал 
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8 
+#EXTINF:-1 group-title="Pramoginiai",11 канал Пенза
+http://85.234.33.64/stream/c11.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Лотос 24
+http://streaming.astrakhan.ru/live/vgtrk/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Астрахнь
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 group-title="Pramoginiai",АТВ (Ставрополь)
+http://hls.atvmedia.ru/atv800.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Городской телеканал (Ярославль)
+http://www.gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Губерния Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Губерния 33 (Владимир)
+http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Наш Дом
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Ника TV (Калуга)
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",НТС (Севастополь)
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",МТВ Волгоград
+http://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Измаил ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Прямий TIM
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Тис
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Первый канал Евразия (KZ)
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/index.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Сургут 1
+http://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Селенга ТВ (Улан-Удэ)
+http://90.188.37.86/live/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai" tvg-logo="http://only4.tv/ch/6761.png",Первый Ростовский
+http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_720/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",ЛДПР ТВ HD
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:0,Univer TV HD
+#EXTGRP:Pramoginiai
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1,Известия
+#EXTGRP:Pramoginiai
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,Губерния Самарская
+#EXTGRP:Pramoginiai
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1,МТВ
+#EXTGRP:Pramoginiai
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1,Крик ТВ
+#EXTGRP:Pramoginiai
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Pramoginiai",8 канал (Красноярский край) +4
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1 group-title="Pramoginiai",86 канал (Сургут) +2
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Аист ТВ (Иркутск) +5
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Ветта 24 (Пермь) +2
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Вместе РФ HD
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Губерния Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai" tvg-id="ch129" tvg-logo="http://only4.tv/ch/1823.png",Мир (HD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai" tvg-logo="http://only4.tv/ch/1823.png",Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai" tvg-id="ch006" tvg-logo="http://only4.tv/ch/1823.png",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai" tvg-logo="http://only4.tv/ch/1823.png",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Ника TV (Калуга)
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai" tvg-logo="http://only4.tv/ch/1317.png",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Ратник HD
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Башкортостан 24
+http://109.233.169.137/hls/b24-hls.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Первый канал "Евразия"
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 group-title="Pramoginiai",С1 (Сургут) +2
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pramoginiai",Эхо ТВ 24 (Новоуральск) +2
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+
+
+#EXTINF:-1,ACB TV
+#EXTGRP:Muzika
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:0,Страна FM HD
+#EXTGRP:Muzika
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0,Kronehit HD
+#EXTGRP:Muzika
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,Reload Radio Music Power HD
+#EXTGRP:Muzika
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1,Радио Хит ТВ
+#EXTGRP:Muzika
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:0,Релакс
+#EXTGRP:Muzika
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Muzika",Радио Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Muzika",Аист ТВ (Иркутск)
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Muzika",НВК Саха
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 group-title="Muzika",Радио Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Muzika",РORTAL FOXMIX TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 group-title="Muzika",MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="Muzika",MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="Muzika",V2BEAT HD
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Muzika",XITE HD
+http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+#EXTINF:-1 group-title="Muzika",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Muzika",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Muzika",Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Muzika",Матур ТВ HD
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+
+
+#EXTINF:-1 group-title="Kamera" tvg-logo="http://www.elnynas.lt/wp-content/uploads/2014/11/elnynas1.png",Elnynas
+http://s1.dcdn.lt/livecam/si508.stream/chunklist_w24835152.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="https://tavovardas.com/wp-content/uploads/druskininku-herbas.jpg",Druskininkų fontanas
+http://s1.dcdn.lt/livecam/dru11.stream/chunklist_w977256332.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="http://www.briedis.lt/out/pictures/z1/3327_kaunas-herbas_z1.png",Kaunas Laisvės alėja
+http://s1.dcdn.lt/livecam/kn025.stream/chunklist_w219792458.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="http://www.briedis.lt/out/pictures/z1/3327_kaunas-herbas_z1.png",Kauno Stadionas
+https://s1.worldcam.live:8082/kaunas/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="http://www.briedis.lt/out/pictures/z1/3327_kaunas-herbas_z1.png",Kaunas Prietilčio gatvė
+http://s1.dcdn.lt/livecam/kn090.stream/chunklist_w922651996.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="http://www.briedis.lt/out/pictures/z1/3327_kaunas-herbas_z1.png",Kaunas Rotušės aikštė
+https://s1.dcdn.lt/livecam/kn039.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="http://www.briedis.lt/out/pictures/z1/3329_klaipeda-herbas_z1.png",Klaipėda-Kaunas Kelias
+http://s1.dcdn.lt/livecam/kl026.stream/chunklist_w703729417.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="https://www.shop.visitneringa.com/images/uploader/li/lipdukas-neringos-herbas-1.jpg",Nida Parnidžio kopa
+https://s1.dcdn.lt/livecam/ner01.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="http://www.yrasalis.lt/assets/Palanga.png",Palanga Tiltas
+http://s1.dcdn.lt/livecam/pal05.stream/chunklist_w1619851560.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="https://www.vle.lt/Portals/0/Images/Article/92244-3.jpg",Šilalės vėjo jegainės
+http://s1.dcdn.lt/livecam/sll50.stream/chunklist_w1711375660.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="https://www.decotoma.com/626-large_default/sieninis-laikrodis-elnias-rudolfas.jpg",Taurusis elnias
+https://s1.dcdn.lt/livecam/si508.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="https://www.vle.lt/Portals/0/Images/Article/125418-1.jpg",Trakai pilis
+http://s1.dcdn.lt/livecam/tra04.stream/chunklist_w1208223986.m3u8
+#EXTINF:-1 group-title="Kamera" tvg-logo="http://www.briedis.lt/out/pictures/z1/3325_vilnius-herbas_z1.png",Vilnius televizijos bokštas
+http://89.117.128.169:80/Tvtower/tvtower.stream/playlist.m3u8
