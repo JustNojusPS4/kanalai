@@ -1,40 +1,16 @@
 #EXTM3U url-tvg="http://epg.tvfor.pro/epgtv.xml"
-#EXTINF:-1 tvg-id="1826" tvg-name="TV3 Plus [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv3plus.png" group-title="Lietuviski" catchup-days="0",TV3 Plus [LV]
+#EXTINF:-1 tvg-id="1819" tvg-name="TV3 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv-3-latvija-lv.png" group-title="Lietuviski" catchup-days="0",TV3 [LT]
 #EXTGRP:Lietuviski
-http://vandijk.tvfor.pro/BGwCLhNnF8/ayif82r3e22k75p9xvl513s4
-#EXTINF:-1 tvg-id="1824" tvg-name="TV3 [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv-3-latvija-lv.png" group-title="Lietuviski" catchup-days="0",TV3 [LV]
-#EXTGRP:Lietuviski
-http://vandijk.tvfor.pro/nVOMVOFs5a/ayif82r3e22k75p9xvl513s4
-#EXTINF:-1 tvg-id="1810" tvg-name="LTV 1 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/latvia1.png" group-title="Lietuviski" catchup-days="0",LTV 1 [LT]
-#EXTGRP:Lietuviski
-http://vandijk.tvfor.pro/ELiablECeS/ayif82r3e22k75p9xvl513s4
-#EXTINF:-1 tvg-id="1827" tvg-name="TV6 [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv6-latvija-lv.png" group-title="Lietuviski" catchup-days="0",TV6 [LV]
-#EXTGRP:Lietuviski
-http://vandijk.tvfor.pro/rthRoEuliN/ayif82r3e22k75p9xvl513s4
+http://vandijk.tvfor.pro/jNFMM3oqcO/ayif82r3e22k75p9xvl513s4
 #EXTINF:-1 tvg-id="1821" tvg-name="TV6 HD [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv6-latvija-lv.png" group-title="Lietuviski" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV6LTHD/ayif82r3e22k75p9xvl513s4?utc=${start}" catchup-days="5" timeshift="5",TV6 HD [LT]
 #EXTGRP:Lietuviski
 http://vandijk.tvfor.pro/HKarJoMkIX/ayif82r3e22k75p9xvl513s4
-#EXTINF:-1 tvg-id="1811" tvg-name="LTV 7 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/latvia7.png" group-title="Lietuviski" catchup-days="0",LTV 7 [LT]
-#EXTGRP:Lietuviski
-http://vandijk.tvfor.pro/uStaNDEACE/ayif82r3e22k75p9xvl513s4
-#EXTINF:-1 tvg-id="1822" tvg-name="TV8 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv8-lietuva-lt.png" group-title="Lietuviski" catchup-days="0",TV8 [LT]
-#EXTGRP:Lietuviski
-http://vandijk.tvfor.pro/bppvH8HMfP/ayif82r3e22k75p9xvl513s4
-#EXTINF:-1 tvg-id="1795" tvg-name="2TV [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/2tv.png" group-title="Lietuviski" catchup-days="0",2TV [LT]
-#EXTGRP:Lietuviski
-http://vandijk.tvfor.pro/DOQL1e7258/ayif82r3e22k75p9xvl513s4
-#EXTINF:-1 tvg-id="1372" tvg-name="Film Zone HD [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/filmzone.png" group-title="Lietuviski" catchup-days="0",Film Zone HD [LV]
-#EXTGRP:Lietuviski
-http://vandijk.tvfor.pro/ThiNgiMaCk/ayif82r3e22k75p9xvl513s4
-#EXTINF:-1 tvg-id="1828" tvg-name="TV8 [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv8-lietuva-lt.png" group-title="Lietuviski" catchup-days="0",TV8 [LV]
-#EXTGRP:Lietuviski
-http://vandijk.tvfor.pro/tuREaRedIA/ayif82r3e22k75p9xvl513s4
-#EXTINF:-1 tvg-id="1815" tvg-name="SmartZone [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/smart_zone.png" group-title="Lietuviski" catchup-days="0",SmartZone [LT]
-#EXTGRP:Lietuviski
-http://vandijk.tvfor.pro/yjN0v6KXeU/ayif82r3e22k75p9xvl513s4
 #EXTINF:-1 tvg-id="1823" tvg-name="LNK [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/lnk_lt.png" group-title="Lietuviski" catchup="default" catchup-source="http://vandijk.tvfor.pro/lnkHD/ayif82r3e22k75p9xvl513s4?utc=${start}" catchup-days="5" timeshift="5",LNK [LV]
 #EXTGRP:Lietuviski
 http://vandijk.tvfor.pro/ggE4kffMea/ayif82r3e22k75p9xvl513s4
+#EXTINF:-1 tvg-id="1815" tvg-name="SmartZone [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/smart_zone.png" group-title="Lietuviski" catchup-days="0",SmartZone [LT]
+#EXTGRP:Lietuviski
+http://vandijk.tvfor.pro/yjN0v6KXeU/ayif82r3e22k75p9xvl513s4
 #EXTINF:-1 tvg-id="1818" tvg-name="TV1 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv1-lt.png" group-title="Lietuviski" catchup-days="0",TV1 [LT]
 #EXTGRP:Lietuviski
 http://vandijk.tvfor.pro/Hx77bIqPBi/ayif82r3e22k75p9xvl513s4
@@ -89,9 +65,33 @@ http://vandijk.tvfor.pro/X7OLRNpmhQ/ayif82r3e22k75p9xvl513s4
 #EXTINF:-1 tvg-id="1813" tvg-name="Pukas TV [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/pukas_tv.png" group-title="Lietuviski" catchup-days="0",Pukas TV [LT]
 #EXTGRP:Lietuviski
 http://vandijk.tvfor.pro/symVADgzLi/ayif82r3e22k75p9xvl513s4
-#EXTINF:-1 tvg-id="1819" tvg-name="TV3 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv-3-latvija-lv.png" group-title="Lietuviski" catchup-days="0",TV3 [LT]
+#EXTINF:-1 tvg-id="1826" tvg-name="TV3 Plus [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv3plus.png" group-title="Lietuviski" catchup-days="0",TV3 Plus [LV]
 #EXTGRP:Lietuviski
-http://vandijk.tvfor.pro/jNFMM3oqcO/ayif82r3e22k75p9xvl513s4
+http://vandijk.tvfor.pro/BGwCLhNnF8/ayif82r3e22k75p9xvl513s4
+#EXTINF:-1 tvg-id="1819" tvg-name="TV3 [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv-3-latvija-lv.png" group-title="Lietuviski" catchup-days="0",TV3 [LV]
+#EXTGRP:Lietuviski
+http://vandijk.tvfor.pro/nVOMVOFs5a/ayif82r3e22k75p9xvl513s4
+#EXTINF:-1 tvg-id="1810" tvg-name="LTV 1 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/latvia1.png" group-title="Lietuviski" catchup-days="0",LTV 1 [LT]
+#EXTGRP:Lietuviski
+http://vandijk.tvfor.pro/ELiablECeS/ayif82r3e22k75p9xvl513s4
+#EXTINF:-1 tvg-id="1821" tvg-name="TV6 [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv6-latvija-lv.png" group-title="Lietuviski" catchup-days="0",TV6 [LV]
+#EXTGRP:Lietuviski
+http://vandijk.tvfor.pro/rthRoEuliN/ayif82r3e22k75p9xvl513s4
+#EXTINF:-1 tvg-id="1811" tvg-name="LTV 7 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/latvia7.png" group-title="Lietuviski" catchup-days="0",LTV 7 [LT]
+#EXTGRP:Lietuviski
+http://vandijk.tvfor.pro/uStaNDEACE/ayif82r3e22k75p9xvl513s4
+#EXTINF:-1 tvg-id="1822" tvg-name="TV8 [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv8-lietuva-lt.png" group-title="Lietuviski" catchup-days="0",TV8 [LT]
+#EXTGRP:Lietuviski
+http://vandijk.tvfor.pro/bppvH8HMfP/ayif82r3e22k75p9xvl513s4
+#EXTINF:-1 tvg-id="1795" tvg-name="2TV [LT]" tvg-logo="http://tvfor.pro/img/images/Chanels/2tv.png" group-title="Lietuviski" catchup-days="0",2TV [LT]
+#EXTGRP:Lietuviski
+http://vandijk.tvfor.pro/DOQL1e7258/ayif82r3e22k75p9xvl513s4
+#EXTINF:-1 tvg-id="1372" tvg-name="Film Zone HD [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/filmzone.png" group-title="Lietuviski" catchup-days="0",Film Zone HD [LV]
+#EXTGRP:Lietuviski
+http://vandijk.tvfor.pro/ThiNgiMaCk/ayif82r3e22k75p9xvl513s4
+#EXTINF:-1 tvg-id="1822" tvg-name="TV8 [LV]" tvg-logo="http://tvfor.pro/img/images/Chanels/tv8-lietuva-lt.png" group-title="Lietuviski" catchup-days="0",TV8 [LV]
+#EXTGRP:Lietuviski
+http://vandijk.tvfor.pro/tuREaRedIA/ayif82r3e22k75p9xvl513s4
 
 
 #EXTINF:-1 tvg-id="2517" tvg-name="Viasat Kino HD" tvg-logo="http://tvfor.pro/img/images/Chanels/new_viasat_kino.png" group-title="Фильмовые" catchup="default" catchup-source="http://vandijk.tvfor.pro/TV_1000_HD_CEE/ayif82r3e22k75p9xvl513s4?utc=${start}" catchup-days="5" timeshift="5",Viasat Kino HD
